@@ -12,6 +12,12 @@
 //     }
 // }
 //images 
+img {
+    &.logo {
+        margin-right:16px;
+        margin-bottom:-10px;
+    }
+}
 .image-wrapper {
     width: auto;
     margin-top: 7px;

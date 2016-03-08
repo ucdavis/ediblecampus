@@ -2,17 +2,16 @@
 header {
     border-bottom: 1px solid $borders;
     height: auto;
-    padding-top: 1.5%;
     padding-bottom: 0.5%;
     background-color: #ffffff;
     .header_contents {
         @include container;
         .logo_wrapper {
-            width: 50%;
+            width: 75%;
             display: inline-block;
         }
         .search_wrapper {
-            width: 49%;
+            width: 24%;
             text-align:right;
             display: inline-block;
         }
