@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Growfood - Homepage
 ---
 
 <div class="slider_wrapper">
@@ -27,32 +28,10 @@ layout: default
         </div> -->
 </div>
 
-
-<div class="news_landing">
-    <div class="news_landing_contents">
-        <h1 class="sectionheader">News</h1>
-        <div class="news_landing_current">
-            {% for post in site.categories.news limit:3 %}
-            <div class="news_landing_piece">
-                {% if post.image %}
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img class="img_article_thumb" src="{{ post.image }}"></a>{% endif %}
-                <h2 class="feed-title">
-                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </h2>
-                <p class="feed-description">{{ post.description }}</p>
-            </div>
-            {% endfor %}
-        </div>
-        <div class="news_landing_more">
-            <h3>Newsletter</h3>
-            <p>Stay updated by signing up for our newsletter</p>
-            <a href="" class="btn btn-newsletter">Sign up</a>
-            <br>
-            <p><a href="/news">View more articles here</a></p>
-        </div>
-    </div>
-</div>
 <div class="main">
     <div class="main_contents">
+    <article>
+        test    
+    </article>
     </div>
 </div>

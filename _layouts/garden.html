@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <article>
+            <h1 class="post_header">{{ page.title }}</h1>
+           	<p>{{ content }}</p>
+        </article>
+        <aside>
+            <h3>What's Growing</h3>
+            <p>{{ page.growing }}</p>
+            <br>
+            {% if page.website %}
+             <h3>Website</h3>
+            <p>
+            <a href="{{ page.website }}">{{ page.website }}</a>
+            </p>
+            {% endif %}
+        </aside>
+    </div>
+</div>
