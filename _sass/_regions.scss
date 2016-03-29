@@ -14,7 +14,15 @@
         @include container;
     }
 }
+.landing-lead {
+    .landing-lead_contents {
+        text-align: center;
 
+        width:40%;
+
+        margin:45px 30% 60px 30%;
+    }
+}
 // .news_landing {
 //     background-color: $bg-color;
 //     border-bottom: 1px solid $borders;

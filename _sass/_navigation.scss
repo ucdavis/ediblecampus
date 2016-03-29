@@ -32,7 +32,7 @@ nav {
     position: relative;
     a {
         font-size: 1.8rem;
-        font-weight: 300;
+        font-weight: 600;
         display: block;
         color: $secondary-font;
         &:hover {
@@ -175,7 +175,7 @@ nav {
         height: 33px;
         line-height: 40px;
         font-size: 20px;
-        background-color: $blue;
+        background-color: $primary-color;
         color: #fff;
         margin-left: 5%;
         margin-top: 3px;

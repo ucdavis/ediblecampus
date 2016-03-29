@@ -10,17 +10,17 @@ html {
 
 a {
   text-decoration: none;
-  color: #016FC4; }
+  color: #68483B; }
   a:hover {
-    color: #008EAA; }
+    color: #78BE20; }
   a.archive {
     text-align: right; }
     a.archive p {
-      color: #016FC4;
+      color: #68483B;
       margin-top: -60px;
       font-size: 1.4rem; }
       a.archive p:hover {
-        color: #008EAA; }
+        color: #78BE20; }
 
 ul,
 ol {
@@ -96,6 +96,9 @@ p {
     margin-bottom: 2%;
     padding-bottom: 2%;
     margin-top: 0px; }
+  .landing-lead p {
+    font-size: 1.6rem;
+    color: #68483B; }
 
 h1,
 h2,
@@ -123,7 +126,8 @@ h1,
     font-size: 2.8rem;
     font-weight: 600;
     color: #68483B;
-    display: inline-block; }
+    display: inline-block;
+    text-indent: -999999px; }
   .main_contents h1, .main_contents
   .h1 {
     color: #68483B; }
@@ -136,6 +140,11 @@ h2,
   .h2 {
     color: #fff;
     font-weight: 200; }
+  .landing-lead h2, .landing-lead
+  .h2 {
+    font-size: 2.4rem;
+    color: #68483B;
+    font-weight: 600; }
 
 h3,
 .h3 {
@@ -689,8 +698,6 @@ img.logo {
     color: #fff; }
   .btn.btn-red {
     background-color: #ba0c2f; }
-  .btn.btn-blue {
-    background-color: #016FC4; }
   .btn.btn-green {
     background-color: #78be20; }
   .btn.btn-newsletter {
@@ -733,7 +740,6 @@ img.logo {
 form .main {
   background-color: #F5F5F1;
   padding: 2%;
-  border-left: 3px solid #028474;
   padding-left: 4%; }
 form input.search_input {
   background-image: url(/media/search_form.svg);
@@ -780,7 +786,7 @@ nav ul.submenu {
   position: relative; }
   #nav li a {
     font-size: 1.8rem;
-    font-weight: 300;
+    font-weight: 600;
     display: block;
     color: #5a585c; }
     #nav li a:hover {
@@ -870,7 +876,7 @@ nav ul.submenu {
     height: 33px;
     line-height: 40px;
     font-size: 20px;
-    background-color: #016FC4;
+    background-color: #68483B;
     color: #fff;
     margin-left: 5%;
     margin-top: 3px;
@@ -944,6 +950,11 @@ nav ul.submenu {
       .banner .banner_contents {
         width: 90%; } }
 
+.landing-lead .landing-lead_contents {
+  text-align: center;
+  width: 40%;
+  margin: 45px 30% 60px 30%; }
+
 ul.feed-list li {
   margin-top: 4%;
   margin-bottom: 4%;
@@ -1000,7 +1011,8 @@ ul.news-list-main li {
 .texture {
   position: relative;
   z-index: 9999;
-  bottom: -370px; }
+  margin-top: -25px;
+  text-align: center; }
 
 .nivoSlider {
   position: relative;
