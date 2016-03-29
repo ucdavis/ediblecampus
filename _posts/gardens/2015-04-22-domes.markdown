@@ -1,0 +1,19 @@
+---
+layout: garden
+title:  "Domes"
+description: "The Domes, AKA Baggins End, is an alternative housing community on the UC Davis campus home to a number of edible plants and gardens."
+location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d780.1466022560822!2d-121.75229017076639!3d38.543301047655035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzM1LjkiTiAxMjHCsDQ1JzA2LjMiVw!5e0!3m2!1sen!2sus!4v1459274675585
+website: http://bagginsend.net/index.html
+permalink: /gardens/domes
+banner-image: /media/placeholder4.jpg
+category: Garden
+---
+
+
+###About
+The Domes, AKA Baggins End, is an alternative housing community on the UC Davis campus home to a number of edible plants and gardens. The Dome 7 Garden is currently being developed as an ecological garden that offers a variety of nutritious plants for Domes residents to enjoy. Community members, UC Davis students, and visitors are encouraged to visit and participate in growing the Dome 7 Garden. The ultimate goal is to create an interactive site integrating pollinator-attracting plants, cover crops, and animal biodiversity with edible plants, showcasing the symbiotic functions between the two systems.
+
+
+###Get Involved
+For more information about the Domes, visit the [website](http://bagginsend.net/index.html). Visitors interested in the Domes or gardening at the Domes are welcome to come to open dinners at 7pm Mondays through Thursdays. All are encouraged to come help out every other Sunday afternoon at the Domes garden workdays. Additionally, students can get involved by applying to the [Edible Landscaping Internship](http://arboretum.ucdavis.edu/student_opportunities.aspx), where two interns help develop a Domes garden area.
+

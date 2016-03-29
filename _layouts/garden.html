@@ -10,14 +10,20 @@ layout: default
         </article>
         <aside>
         <iframe src="{{ page.location }}" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+            {% if page.growing %}
             <h3>What's Growing</h3>
             <p>{{ page.growing }}</p>
+            {% endif %}
             <br>
             {% if page.website %}
-             <h3>Website</h3>
+            <h3>Website</h3>
             <p>
             <a href="{{ page.website }}">{{ page.website }}</a>
             </p>
+            {% endif %}
+            {% if page.facebook %}
+            <h3>Social</h3>
+            <p><a href="{{ page.facebook }}"><i class="fa fa-facebook"></i></a></p>
             {% endif %}
         </aside>
     </div>

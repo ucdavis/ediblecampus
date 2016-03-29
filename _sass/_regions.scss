@@ -14,15 +14,37 @@
         @include container;
     }
 }
+
 .landing-lead {
     .landing-lead_contents {
         text-align: center;
-
-        width:40%;
-
-        margin:45px 30% 60px 30%;
+        width: 40%;
+        margin: 45px 30% 60px 30%;
     }
 }
+
+.garden-wrapper {
+    .garden-card {
+        padding:20px;
+        background-color: #fff;
+        border:1px solid $borders;
+        margin:10px 0px;
+        .garden-card_map {
+            text-align: left;
+            vertical-align: top;
+            display: inline-block;
+            width: 24%;
+        }
+        .garden-card_details {
+            text-align: left;
+            vertical-align: top;
+            display: inline-block;
+            width: 73%;
+            margin-left: 2%;
+        }
+    }
+}
+
 // .news_landing {
 //     background-color: $bg-color;
 //     border-bottom: 1px solid $borders;
@@ -37,10 +59,10 @@
 //             vertical-align: top;
 //             width: 75%;
 //             @include breakpoint(mobileonly) {
-//             	width:66%
+//              width:66%
 //             }
 //             @include breakpoint(smallmobile){
-//             	width:100%;
+//              width:100%;
 //             }
 //         }
 //         .news_landing_more {
@@ -51,11 +73,11 @@
 //             display: inline-block;
 //             vertical-align: top;
 //             @include breakpoint(mobileonly) {
-//             	width:30%
+//              width:30%
 //             }
 //             @include breakpoint(smallmobile){
-//             	width:100%;
-//             	border-left:none;
+//              width:100%;
+//              border-left:none;
 //             }
 //         }
 //         .news_landing_piece {
@@ -66,14 +88,14 @@
 //             @include breakpoint(mobileonly) {
 //                 width:100%;
 //                 img.img_article_thumb {
-//                 	width:90%;
+//                  width:90%;
 //                 }
 //             }
 //             @include breakpoint(smallmobile){
-//             	margin-bottom:20px;
+//              margin-bottom:20px;
 //                 img.img_article_thumb {
-//                 	width:90%;
-//                 	margin-bottom:0px;
+//                  width:90%;
+//                  margin-bottom:0px;
 //                 }
 //             }
 //             img.img_article_thumb {
@@ -90,7 +112,6 @@
 //         }
 //     }
 // }
-
 ul.feed-list {
     li {
         margin-top: 4%;
@@ -113,7 +134,7 @@ ul.events-list-main {
     vertical-align: top;
     width: 13%;
     margin-right: 10px;
-    font-weight:600;
+    font-weight: 600;
     .event-date-wrapper {
         width: 90px;
         &:hover span.event-month {

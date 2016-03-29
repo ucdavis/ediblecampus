@@ -73,6 +73,10 @@ p {
   font-size: 1.6rem;
   font-family: "proxima-nova", arial, sans-serif;
   color: #333433; }
+  .garden-card_details p span {
+    color: #5a585c;
+    font-size: 1.4rem;
+    text-transform: uppercase; }
   p.page_description {
     border-bottom: 1px solid #C8C7CC;
     margin-bottom: 4%;
@@ -135,7 +139,7 @@ h1,
 h2,
 .h2 {
   font-size: 2.2rem;
-  font-weight: 400; }
+  font-weight: 600; }
   .banner h2, .banner
   .h2 {
     color: #fff;
@@ -953,6 +957,23 @@ nav ul.submenu {
   text-align: center;
   width: 40%;
   margin: 45px 30% 60px 30%; }
+
+.garden-wrapper .garden-card {
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #C8C7CC;
+  margin: 10px 0px; }
+  .garden-wrapper .garden-card .garden-card_map {
+    text-align: left;
+    vertical-align: top;
+    display: inline-block;
+    width: 24%; }
+  .garden-wrapper .garden-card .garden-card_details {
+    text-align: left;
+    vertical-align: top;
+    display: inline-block;
+    width: 73%;
+    margin-left: 2%; }
 
 ul.feed-list li {
   margin-top: 4%;

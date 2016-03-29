@@ -1,0 +1,17 @@
+---
+layout: garden
+title:  "Tri Co-operatives"
+description: "The Tri-Cooperatives (or Tri-Coops) are an on-campus student housing association that seek to foster educational and personal growth and provide safe and affordable living."
+location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d780.1466022560822!2d-121.75229017076639!3d38.543301047655035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzM1LjkiTiAxMjHCsDQ1JzA2LjMiVw!5e0!3m2!1sen!2sus!4v1459274675585
+permalink: /gardens/tri-coop
+banner-image: /media/placeholder4.jpg
+category: Garden
+---
+
+
+###About
+The Tri-Cooperatives (or Tri-Coops) are an on-campus student housing association that seek to foster educational and personal growth and provide safe and affordable living. The three houses--Davis Student Co-op, Pierce, and Agrarian Effort--share a large garden space that is frequently cultivated by residents and other students for healthy food and enjoyment.
+
+###Get Involved
+All are welcome to attend the Tri-Coops’ garden workdays every Friday afternoon.
+
