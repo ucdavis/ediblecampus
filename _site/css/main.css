@@ -958,22 +958,25 @@ nav ul.submenu {
   width: 40%;
   margin: 45px 30% 60px 30%; }
 
-.garden-wrapper .garden-card {
-  padding: 20px;
-  background-color: #fff;
-  border: 1px solid #C8C7CC;
-  margin: 10px 0px; }
-  .garden-wrapper .garden-card .garden-card_map {
-    text-align: left;
-    vertical-align: top;
-    display: inline-block;
-    width: 24%; }
-  .garden-wrapper .garden-card .garden-card_details {
-    text-align: left;
-    vertical-align: top;
-    display: inline-block;
-    width: 73%;
-    margin-left: 2%; }
+.garden-wrapper {
+  width: 80%;
+  margin: 0 auto; }
+  .garden-wrapper .garden-card {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #C8C7CC;
+    margin: 20px 0px; }
+    .garden-wrapper .garden-card .garden-card_map {
+      text-align: left;
+      vertical-align: top;
+      display: inline-block;
+      width: 24%; }
+    .garden-wrapper .garden-card .garden-card_details {
+      text-align: left;
+      vertical-align: top;
+      display: inline-block;
+      width: 73%;
+      margin-left: 2%; }
 
 ul.feed-list li {
   margin-top: 4%;

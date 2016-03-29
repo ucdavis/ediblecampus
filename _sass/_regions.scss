@@ -24,11 +24,13 @@
 }
 
 .garden-wrapper {
+    width:80%;
+    margin:0 auto;
     .garden-card {
         padding:20px;
         background-color: #fff;
         border:1px solid $borders;
-        margin:10px 0px;
+        margin:20px 0px;
         .garden-card_map {
             text-align: left;
             vertical-align: top;
