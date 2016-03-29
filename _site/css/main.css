@@ -159,7 +159,7 @@ h3,
     font-size: 1.8rem;
     font-weight: 600;
     color: #333433;
-    margin-top: 0px;
+    margin-top: 15px;
     margin-bottom: 0px; }
 
 h4,
@@ -229,12 +229,11 @@ header {
       width: 90%; } }
 
 aside {
-  width: 29%;
+  width: 30%;
   display: inline-block;
   vertical-align: top;
   padding-left: 2%;
-  margin-top: 1%;
-  margin-left: 2%; }
+  margin-left: 0px; }
 
 article {
   width: 63%;
@@ -931,12 +930,12 @@ nav ul.submenu {
 .banner {
   background-color: #68483B;
   padding: 2% 0; }
-  .banner.banner_fish {
-    background-image: url(/media/fish_banner.jpg);
+  .banner.banner_garden {
+    background-image: url(/media/garden_banner.jpg);
     background-size: cover;
     background-repeat: no-repeat; }
-    .banner.banner_fish h2,
-    .banner.banner_fish p {
+    .banner.banner_garden h2,
+    .banner.banner_garden p {
       text-shadow: 1px 1px 2px #1c1c1c; }
   .banner .banner_contents {
     max-width: 1400px;

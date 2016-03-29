@@ -8,7 +8,7 @@ url: "http://growfood.ucdavis.edu" # the base hostname & protocol for your site
 
 permalink: pretty
 
-paginate: 3
+paginate: 10
 
 # Build settings
 markdown: kramdown
