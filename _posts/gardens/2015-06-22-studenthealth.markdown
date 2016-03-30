@@ -2,7 +2,7 @@
 layout: garden
 title:  "Student Health and Wellness Center Gardens"
 description: "Outside the Student Health and Wellness Center is a welcoming landscape home to many edible plants."
-location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.54829759565!2d-121.7664229846601!3d38.54417937962677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzM2LjkiTiAxMjHCsDQ1JzUxLjEiVw!5e0!3m2!1sen!2sus!4v1459360242483
+location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.629663108912!2d-121.76395868461049!3d38.542304175401455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzMyLjMiTiAxMjHCsDQ1JzQyLjQiVw!5e0!3m2!1sen!2sus!4v1459360557154
 website: https://shcs.ucdavis.edu/blog/
 permalink: /gardens/studenthealth
 banner-image: /media/placeholder4.jpg
