@@ -2,13 +2,12 @@
 layout: garden
 title:  "Biological Orchard and Gardens (BOG)"
 description: "The Biological Orchard and Gardens (BOG) is a collaboration between students, staff, and faculty to convert an underutilized landscape in the heart of campus into a living museum which showcase permaculture practices and biodiversity."
-location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d780.1466022560822!2d-121.75229017076639!3d38.543301047655035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzM1LjkiTiAxMjHCsDQ1JzA2LjMiVw!5e0!3m2!1sen!2sus!4v1459274675585
+location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.647634701637!2d-121.75791868454017!3d38.54188997962706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzMwLjgiTiAxMjHCsDQ1JzIwLjYiVw!5e0!3m2!1sen!2sus!4v1459359972828
 permalink: /gardens/bog
 facebook: http://www.facebook.com/ucdBOG
 banner-image: /media/placeholder4.jpg
 category: Garden
 ---
-
 
 ###About
 The Biological Orchard and Gardens (BOG) is a collaboration between students, staff, and faculty to convert an underutilized landscape in the heart of campus into a living museum which showcase permaculture practices and biodiversity. A quarter of the space will feature a first-of-its-kind orchard of heirloom California fruit trees threatened with extinction. Once it is established, visitors to the garden are free to sample the harvests. The remaining space will feature drought-tolerant plants native to South Africa, the Mediterranean, and California, serving as an outdoor ecological classroom.

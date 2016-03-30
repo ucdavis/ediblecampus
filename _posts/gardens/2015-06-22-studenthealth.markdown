@@ -2,13 +2,12 @@
 layout: garden
 title:  "Student Health and Wellness Center Gardens"
 description: "Outside the Student Health and Wellness Center is a welcoming landscape home to many edible plants."
-location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d780.1466022560822!2d-121.75229017076639!3d38.543301047655035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzM1LjkiTiAxMjHCsDQ1JzA2LjMiVw!5e0!3m2!1sen!2sus!4v1459274675585
+location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.54829759565!2d-121.7664229846601!3d38.54417937962677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzM2LjkiTiAxMjHCsDQ1JzUxLjEiVw!5e0!3m2!1sen!2sus!4v1459360242483
 website: https://shcs.ucdavis.edu/blog/
 permalink: /gardens/studenthealth
 banner-image: /media/placeholder4.jpg
 category: Garden
 ---
-
 
 ###About
 Outside the Student Health and Wellness Center is a welcoming landscape home to many edible plants. The organically grown Harvest Garden Gardeners offers visitors an opportunity to learn about the benefits of growing and eating fresh fruit and vegetables. Cared for by Health Education and Promotion student staff and volunteers, it serves as a demonstration space for teaching about edible gardening.

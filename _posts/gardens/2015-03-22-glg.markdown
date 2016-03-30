@@ -2,7 +2,7 @@
 layout: garden
 title:  "Good Life Garden"
 description: "The mission of the UC Davis Good Life Garden at the Robert Mondavi Institute for Wine and Food Science is to expose and educate a wide audience to the relationship between good food and good health."
-location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d780.1466022560822!2d-121.75229017076639!3d38.543301047655035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzM1LjkiTiAxMjHCsDQ1JzA2LjMiVw!5e0!3m2!1sen!2sus!4v1459274675585
+location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.03871690371!2d-121.75276498466035!3d38.53287567962842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMxJzU3LjIiTiAxMjHCsDQ1JzA0LjciVw!5e0!3m2!1sen!2sus!4v1459360334278
 website: http://www.goodlifegarden.ucdavis.edu/garden_main
 permalink: /gardens/glg
 banner-image: /media/placeholder4.jpg
