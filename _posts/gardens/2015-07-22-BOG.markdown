@@ -6,7 +6,7 @@ location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.64763470163
 permalink: /gardens/bog
 facebook: http://www.facebook.com/ucdBOG
 banner-image: /media/placeholder4.jpg
-category: Garden
+category: garden
 ---
 
 ###About

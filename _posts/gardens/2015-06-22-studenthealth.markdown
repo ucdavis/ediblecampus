@@ -6,7 +6,7 @@ location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.62966310891
 website: https://shcs.ucdavis.edu/blog/
 permalink: /gardens/studenthealth
 banner-image: /media/placeholder4.jpg
-category: Garden
+category: garden
 ---
 
 ###About

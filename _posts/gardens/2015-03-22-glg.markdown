@@ -6,7 +6,7 @@ location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.03871690371
 website: http://www.goodlifegarden.ucdavis.edu/garden_main
 permalink: /gardens/glg
 banner-image: /media/placeholder4.jpg
-category: Garden
+category: garden
 ---
 
 
