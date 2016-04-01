@@ -7,7 +7,7 @@ facebook: https://www.facebook.com/UCDavisResidentGarden
 website: http://dining.ucdavis.edu/sus-garden.html
 permalink: /gardens/resident-garden
 banner-image: /media/placeholder4.jpg
-category: Garden
+category: garden
 ---
 
 
