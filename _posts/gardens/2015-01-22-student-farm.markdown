@@ -10,10 +10,12 @@ category: Garden
 ---
 
 ###About
+
 The Student Farm is a community where students work to create, maintain, and explore sustainable food systems. At the farm, students grow in many ways, learning from seasoned field-based educators, from their peers, and from themselves. They come to understand sustainability through the soils, crops, climate, and community in which they work. In the process, they gain systems-based thinking and doing skills needed to make a positive difference in today’s world. The Student Farm includes the Market Garden, Ecological Garden, farm shop, table grape vineyard, composting program, Kids in the Garden program, and school gardening program.
 
 
 ###Get Involved
+
 Visit the [website](http://asi.ucdavis.edu/programs/sf/get-involved/internships-and-volunteer-positions) for more information about the Student Farm and how to get involved as a volunteer or intern.
 
 
