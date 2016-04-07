@@ -212,10 +212,10 @@ header {
       header .header_contents {
         width: 90%; } }
     header .header_contents .logo_wrapper {
-      width: 75%;
+      width: 89%;
       display: inline-block; }
     header .header_contents .search_wrapper {
-      width: 24%;
+      width: 10%;
       text-align: right;
       display: inline-block; }
 
@@ -846,7 +846,7 @@ nav ul.submenu {
     font-size: 1.4rem; }
 
   #nav > ul > li {
-    margin-right: 2%; } }
+    margin-right: 0px; } }
 @media only screen and (max-width: 1000px) {
   #nav {
     width: 100%;
@@ -855,7 +855,7 @@ nav ul.submenu {
     text-align: center; }
 
   #nav > ul > li {
-    margin-right: 5%; }
+    margin-right: 0px; }
 
   .search_form {
     top: 168px; } }
