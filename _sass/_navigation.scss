@@ -31,7 +31,7 @@ nav {
 #nav li {
     position: relative;
     a {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
         font-weight: 600;
         display: block;
         color: $secondary-font;
@@ -69,7 +69,7 @@ nav {
             > a {
                 line-height: 2.5em;
                 text-align: left;
-                font-size:1.8rem;
+                font-size:1.6rem;
                 padding: 4px 20px;
                 &.active {
                     color:$secondary-color;

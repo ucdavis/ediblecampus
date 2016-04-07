@@ -653,6 +653,9 @@ input[type="button"].button-primary:focus {
 .section_divider {
   margin-bottom: 10%; }
 
+iframe {
+  border: none; }
+
 img.logo {
   margin-right: 16px;
   margin-bottom: -10px; }
@@ -788,7 +791,7 @@ nav ul.submenu {
 #nav li {
   position: relative; }
   #nav li a {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 600;
     display: block;
     color: #5a585c; }
@@ -809,7 +812,7 @@ nav ul.submenu {
     #nav > ul > li > a {
       line-height: 2.5em;
       text-align: left;
-      font-size: 1.8rem;
+      font-size: 1.6rem;
       padding: 4px 20px; }
       #nav > ul > li > a.active {
         color: #78BE20;
