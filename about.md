@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Through their participation in farm programs, edible gardens, vineyards, edible plant propagation, and more, students and staff are co-creating an edible campus. UC Davis’ edible landscapes serve myriad purposes:
+Teach volunteers, interns, and visitors about growing food
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+1. Enhance food access and security
+2. Enhance health and wellness and relieve stress
+3. Promote environmental and community sustainability
+4. Reconnect to UC Davis’ agricultural heritage
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
