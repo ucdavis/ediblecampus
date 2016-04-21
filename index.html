@@ -37,10 +37,28 @@ title: Growfood - Homepage
         </p>
     </div>
 </div>
-<div class="main">
-    <div class="main_contents">
-    <article>
-        test    
-    </article>
+<div class="landing-feature-wrapper">
+    <div class="landing-feature">
+        <h3>Featured Garden</h3>
+        <div class="landing-feature-box">
+            {% for post in site.tags.feature %}
+                <div class="featured-garden-wrapper">
+                    <div class="featured-garden-image">
+                        <img src="/media/gardens/{{ post.imagesource }}/one.jpg" alt="">
+                    </div>
+                    <div class="featured-garden-text">
+                        <h2>
+                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                    <p>{{ post.description }}</p>
+                    <br>
+                    <br>
+                    {% if post.growing %}
+                    <p><b>What's Growing: </b><span>{{ post.growing }}</span></p>
+                    {% endif %}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
     </div>
 </div>

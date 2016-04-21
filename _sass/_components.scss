@@ -1,9 +1,11 @@
 .section_divider {
     margin-bottom: 10%;
 }
+
 iframe {
-    border:none;
+    border: none;
 }
+
 // ul {
 //     li {
 //         &.bullet-divider:after {
@@ -16,48 +18,45 @@ iframe {
 //images 
 img {
     &.logo {
-        margin-right:16px;
-        margin-bottom:-10px;
+        margin-right: 16px;
+        margin-bottom: -10px;
     }
 }
+
 .image-gallery {
-    width:100%;
-    margin-top:12px;
+    width: 100%;
+    margin-top: 12px;
     .div {
         vertical-align: top;
-        overflow:hidden;
+        overflow: hidden;
     }
-    .image_1, .small_wrapper {
-        display:inline-block;
+    .image_1,
+    .small_wrapper {
+        display: inline-block;
     }
     .image_1 {
-        width:58%;
+        width: 58%;
         vertical-align: top;
-        
     }
     .small_wrapper {
-       
-        width:39.5%;
-        margin-left:1.4%;
+        width: 39.5%;
+        margin-left: 1.4%;
     }
     .image_2 {
-       
-        width:100%;
+        width: 100%;
     }
     .image_3 {
-      
-        width:47%;
-        margin-right:4.7%;
-        margin-top:2.9%;
-        display:inline-block;
+        width: 47%;
+        margin-right: 4.7%;
+        margin-top: 2.9%;
+        display: inline-block;
     }
     .image_4 {
-    
-        width:47%;
-        display:inline-block;
+        width: 46.5%;
+        display: inline-block;
     }
-
 }
+
 .image-wrapper {
     width: auto;
     margin-top: 7px;
@@ -69,25 +68,27 @@ img {
     &.left {
         float: left;
         max-width: 300px;
-        padding-right:5%;
+        padding-right: 5%;
     }
     &.right {
         float: right;
         max-width: 300px;
-        padding-left:5%;
+        padding-left: 5%;
     }
     &.full-width {
         max-width: 800px;
     }
 }
+
 .img_article_thumb {
     float: left;
     max-width: 45%;
     padding-right: 3%;
     padding-top: 1%;
     padding-bottom: 4%;
-    max-height:240px;
+    max-height: 240px;
 }
+
 .btn {
     padding: 8px 20px;
     margin-top: 2.5%;
@@ -98,7 +99,7 @@ img {
     font-size: 1.4rem;
     font-weight: 400;
     color: #fff;
-    cursor:pointer;
+    cursor: pointer;
     display: inline-block;
     // text-transform: uppercase;
     text-decoration: none;
@@ -160,4 +161,44 @@ img {
         max-width: 60rem;
         margin-top: -100px;
     }
+}
+.hidden {
+    visibility: hidden;
+}
+@-webkit-keyframes fadeIn {
+0% {
+        opacity: 0;
+    }
+    50% {
+    opacity: 0;
+    }
+
+    100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    50% {
+    opacity: 0;
+    }
+
+    100% {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+
+}
+.animated {
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
 }

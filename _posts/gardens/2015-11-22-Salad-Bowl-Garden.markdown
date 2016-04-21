@@ -8,6 +8,7 @@ location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d780.146602256082
 facebook: https://www.facebook.com/PES-Salad-Bowl-Garden-140693089381118/?fref=ts
 imagesource: sbg
 category: garden
+tags: feature
 permalink: /gardens/sbg
 ---
 
