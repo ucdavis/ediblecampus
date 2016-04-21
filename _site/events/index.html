@@ -12,7 +12,7 @@
 
    <!-- Typekit -->
   <script src="https://use.typekit.net/ved8sye.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <script>try{Typekit.load();}catch(e){}</script>
 
   <title>Edible Campus</title>
   <meta name="description" content="Edible gardens at UC Davis.
@@ -49,8 +49,14 @@
     <header>
     <div class="header_contents">
         <div class="logo_wrapper">
-            <a href="/"><img class="logo" src="/media/growfood_logo.svg" alt=""><h1>Edible Campus</h1></a>
-            <div class="nav_wrapper">
+            <a href="/"><img class="logo" src="/media/logo.svg" alt=""><h1>Edible Campus</h1></a>
+        </div>
+        <div class="search_wrapper">
+            <a href="https://www.ucdavis.edu/"><img src="/media/ucdavis.svg" alt=""></a>
+        </div>
+    </div>
+</header>
+<div class="nav_wrapper">
                 <nav id="nav" role="navigation">
                     <a class="nav_open" href="#nav" title="Show navigation"><i class="fa fa-bars"></i></a>
                     <a class="nav_close" href="#" title="Hide navigation"><i class="fa fa-times"></i></a>
@@ -59,27 +65,13 @@
                             <a href="/about">About</a>
                         </li>
                         <li>
-                            <a href="/gardens" aria-haspopup="true">Gardens</a>
-                            <!-- <ul class="submenu">
-                                <li><a href="/components#nivo">Slider</a></li>
-                                <li><a href="/components#bgvideo">Video</a></li>
-                                <li><a href="/components#icons">Icons</a></li>
-                                <li><a href="/components#nivo">Slider</a></li>
-                                <li><a href="/components#bgvideo">Video</a></li>
-                                <li><a href="/components#icons">Icons</a></li>
-                                <li><a href="/components#nivo">Slider</a></li>
-                                <li><a href="/components#bgvideo">Video</a></li>
-                                <li><a href="/components#icons">Icons</a></li>
-                                <li><a href="/components#nivo">Slider</a></li>
-                                <li><a href="/components#bgvideo">Video</a></li>
-                                <li><a href="/components#icons">Icons</a></li>
-                            </ul> -->
+                            <a href="/gardens">Gardens</a>
                         </li>
                         <li>
-                            <a href="/news">Events</a>
+                            <a href="/news">Blog</a>
                         </li>
                         <li>
-                            <a href="/events">Blog</a>
+                            <a href="/events">Events</a>
                         </li>
                         <li>
                             <a href="/support">Get Involved</a>
@@ -87,30 +79,19 @@
                     </ul>
                 </nav>
             </div>
-        </div>
-        <div class="search_wrapper">
-            <a href="https://www.ucdavis.edu/"><img src="/media/ucdavis.svg" alt=""></a>
-        </div>
-    </div>
-</header>
 
 
     
         <div class="main">
     <div class="main_contents">
-        <aside>
-            <h3>Jekyll Starter Events template</h3>
-            <p>Adding new quotes to the generator nearly daily. Shareable quote images coming in a few days.</p>
-        </aside>
+        
         <article>
             
             <h1>Jekyll Starter Events template</h1>
-            <p class="page_description">Stay up to date with our latest events</p>
-            <a class="archive" href="/news/archive">
-                <p>See the Archive</p> 
-            </a>
+            <p class="lead">Stay up to date with our latest events</p>
+            
           
-            <ul class="feed-list event-list-main">
+            <ul class="feed-list event-list-main no-padding">
                 
                 <li>
                 <div class="event-date">
@@ -157,6 +138,10 @@
             </ul>
             <!-- <p class="rss-subscribe">subscribe <a href=" /feed.xml ">via RSS</a></p> -->
         </article>
+        <aside>
+            <h3>Jekyll Starter Events template</h3>
+            <p>Adding new quotes to the generator nearly daily. Shareable quote images coming in a few days.</p>
+        </aside>
     </div>
 </div>
 

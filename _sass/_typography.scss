@@ -45,7 +45,6 @@ a {
 // }
 ul,
 ol {
-    padding-left: 0px;
     li {
         font-size: 1.6rem;
         line-height: 1.8;
@@ -58,6 +57,9 @@ ol {
     }
     &.no-bullet li {
         list-style-type: none;
+    }
+    &.no-padding {
+        padding-left:0px;
     }
 }
 
@@ -113,10 +115,13 @@ p {
         font-size:1.4rem;
         text-transform: uppercase;
     }
-    &.page_description {
-        border-bottom: 1px solid $borders;
-        margin-bottom: 4%;
-        padding-bottom: 2%;
+    &.lead {
+        font-size:1.8rem;
+        color:#000;
+        margin-top:0px;
+        border-bottom:1px solid $borders;
+        padding-bottom:1%;
+        margin-bottom:3%;
     }
     .banner & {
         color: #fff;

@@ -5,6 +5,26 @@ layout: default
 <div class="main">
     <div class="main_contents">
         <article>
+            <div class="image-gallery">
+                <div class="image_1">
+                    <a href="{{ page.imageone }}" class="gallery">
+                    <img src="{{ page.imageone }}" /></a>
+                </div>
+                <div class="small_wrapper">
+                    <div class="image_2">
+                        <a href="{{ page.imagetwo }}" class="gallery">
+                        <img src="{{ page.imagetwo }}" /></a>
+                        </div>
+                    <div class="image_3">
+                        <a href="{{ page.imagethree }}" class="gallery">
+                        <img src="{{ page.imagethree }}"  /></a>
+                    </div>
+                    <div class="image_4">
+                        <a href="{{ page.imagefour }}" class="gallery">
+                        <img src="{{ page.imagefour }}" /></a>
+                    </div>
+                </div>
+            </div>
             <h1 class="post_header">{{ page.title }}</h1>
            	<p>{{ content }}</p>
         </article>

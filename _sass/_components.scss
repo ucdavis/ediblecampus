@@ -20,6 +20,44 @@ img {
         margin-bottom:-10px;
     }
 }
+.image-gallery {
+    width:100%;
+    margin-top:12px;
+    .div {
+        vertical-align: top;
+        overflow:hidden;
+    }
+    .image_1, .small_wrapper {
+        display:inline-block;
+    }
+    .image_1 {
+        width:58%;
+        vertical-align: top;
+        
+    }
+    .small_wrapper {
+       
+        width:39.5%;
+        margin-left:1.4%;
+    }
+    .image_2 {
+       
+        width:100%;
+    }
+    .image_3 {
+      
+        width:47%;
+        margin-right:4.7%;
+        margin-top:2.9%;
+        display:inline-block;
+    }
+    .image_4 {
+    
+        width:47%;
+        display:inline-block;
+    }
+
+}
 .image-wrapper {
     width: auto;
     margin-top: 7px;
