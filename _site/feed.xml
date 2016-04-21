@@ -6,8 +6,8 @@
 </description>
     <link>http://growfood.ucdavis.edu/</link>
     <atom:link href="http://growfood.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Apr 2016 13:06:24 -0700</pubDate>
-    <lastBuildDate>Thu, 21 Apr 2016 13:06:24 -0700</lastBuildDate>
+    <pubDate>Thu, 21 Apr 2016 13:07:07 -0700</pubDate>
+    <lastBuildDate>Thu, 21 Apr 2016 13:07:07 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -241,15 +241,14 @@ sententia?&lt;/p&gt;
     
       <item>
         <title>Edible Landscaping Internship Greenhouse</title>
-        <description>&lt;h2&gt;About&lt;h2&gt;
+        <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
 
-Student interns of the [Edible Landscaping Internship](http://arboretum.ucdavis.edu/student_opportunities.aspx) propagate plants for several edible landscapes on campus and for Arboretum plant sales. Currently, these edible plants are propagated at the Environmental Horticulture greenhouses.
+&lt;p&gt;Student interns of the &lt;a href=&quot;http://arboretum.ucdavis.edu/student_opportunities.aspx&quot;&gt;Edible Landscaping Internship&lt;/a&gt; propagate plants for several edible landscapes on campus and for Arboretum plant sales. Currently, these edible plants are propagated at the Environmental Horticulture greenhouses.&lt;/p&gt;
 
-&lt;h2&gt;Get Involved&lt;h2&gt;
+&lt;h2 id=&quot;get-involved&quot;&gt;Get Involved&lt;/h2&gt;
 
-Get involved propagating edible plants through the Arboretum and Public Garden’s [Edible Landscaping Internship](http://arboretum.ucdavis.edu/student_opportunities.aspx), by attending workdays or applying to be an intern.
+&lt;p&gt;Get involved propagating edible plants through the Arboretum and Public Garden’s &lt;a href=&quot;http://arboretum.ucdavis.edu/student_opportunities.aspx&quot;&gt;Edible Landscaping Internship&lt;/a&gt;, by attending workdays or applying to be an intern.&lt;/p&gt;
 
-&lt;/h2&gt;&lt;/h2&gt;&lt;/h2&gt;&lt;/h2&gt;
 </description>
         <pubDate>Thu, 22 Oct 2015 00:00:00 -0700</pubDate>
         <link>http://growfood.ucdavis.edu/gardens/elig</link>
