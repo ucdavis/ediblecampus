@@ -55,8 +55,10 @@ ul.footer-list {
     padding-left: 0px;
     font-family: "proxima-nova", arial, sans-serif;
     font-weight: 200;
-    color: #A6A6A6;
+    color: rgba(255, 255, 255, 0.75);
     margin-top: 4px; }
+    ul.footer-list li a {
+      color: rgba(255, 255, 255, 0.75); }
     .foot_bottom ul.footer-list li {
       border-right: none;
       padding-right: 5px;
@@ -221,18 +223,20 @@ header {
       text-align: right;
       display: inline-block; }
 
-.main .main_contents {
-  max-width: 1400px;
-  width: 80%;
-  margin: 0 auto;
-  min-width: 300px;
-  margin-top: 2%; }
-  @media (max-width: 850px) {
-    .main .main_contents {
-      width: 85%; } }
-  @media (max-width: 640px) {
-    .main .main_contents {
-      width: 90%; } }
+.main {
+  padding-bottom: 40px; }
+  .main .main_contents {
+    max-width: 1400px;
+    width: 80%;
+    margin: 0 auto;
+    min-width: 300px;
+    margin-top: 2%; }
+    @media (max-width: 850px) {
+      .main .main_contents {
+        width: 85%; } }
+    @media (max-width: 640px) {
+      .main .main_contents {
+        width: 90%; } }
 
 aside {
   width: 30%;
@@ -267,10 +271,11 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   height: 180px;
-  display: block; }
+  display: block;
+  background-color: #404040; }
   footer .footer_contents {
     max-width: 1400px;
     width: 80%;

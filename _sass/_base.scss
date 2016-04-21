@@ -19,6 +19,7 @@ header {
 }
 
 .main {
+    padding-bottom:40px;
     .main_contents {
         @include container;
         // background-color:#fff;
@@ -64,10 +65,11 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding-top:60px;
-    padding-bottom:60px;
+    padding-top:40px;
+    padding-bottom:40px;
     height: 180px;
     display:block;
+    background-color:#404040;
     .footer_contents {
         @include container;
         .foot_top {
