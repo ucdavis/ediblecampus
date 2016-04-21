@@ -10,11 +10,11 @@ imagesource: hort
 category: garden
 ---
 
-###About
+<h2>About<h2>
 
 The Horticulture Innovation Lab demonstration center, started in 2015, seeks to share innovative technologies and practices with colleagues visiting from around the country and the world. It is an active site for students, faculty, and staff to test new horticultural tools and demonstrate best practices for growing fruits and vegetables — particularly those helpful to small-scale farmers in developing countries. The demonstration center is spearheaded by Horticulture Innovation Lab and is also part of the UC Davis GATEways Project, a campuswide initiative developed by the UC Davis Arboretum and Public Garden to showcase the academic strengths of UC Davis, inspire life-long learning, and engage with the local community.
 
-###Get Involved
+<h2>Get Involved<h2>
 
 To learn more about the demonstration center, visit the Horticulture Innovation Lab [website](http://horticulture.ucdavis.edu/main/center_ucdavis.html) and check out the [blog](http://blog.horticulture.ucdavis.edu/2015/06/our-newest-center-here-at-uc-davis/).
 

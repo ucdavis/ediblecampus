@@ -10,12 +10,12 @@ category: garden
 ---
 
 
-###About
+<h2>About</h2>
 
 The mission of the UC Davis Good Life Garden at the Robert Mondavi Institute for Wine and Food Science is to expose and educate a wide audience to the relationship between good food and good health. The Good Life Garden’s ever-changing edible landscape features organic and sustainably grown vegetables, herbs, and flowers accompanied by compelling.
 
 
-###Get Involved
+<h2>Get Involved</h2>
 
 Contact Chelsea Chan (cgkchan@ucdavis.edu) or Jamie Lam (jyllam@ucdavis.edu) to find out about volunteer workdays. Visit the [website](cgkchan@ucdavis.edu) for more info about the garden.
 

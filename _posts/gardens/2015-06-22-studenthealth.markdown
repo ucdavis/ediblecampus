@@ -9,13 +9,13 @@ imagesource: sh
 category: garden
 ---
 
-###About
+<h2>About<h2>
 
 Outside the Student Health and Wellness Center is a welcoming landscape home to many edible plants. The organically grown Harvest Garden Gardeners offers visitors an opportunity to learn about the benefits of growing and eating fresh fruit and vegetables. Cared for by Health Education and Promotion student staff and volunteers, it serves as a demonstration space for teaching about edible gardening.
 
 The Healing Patch is a medicinal garden incorporated into the landscape just south of the building. Visit the Healing Patch to learn more about medicinal and ethnobotanical uses of plants and to gain inspiration to incorporate medicinals into your own garden.
 
-###Get Involved
+<h2>Get Involved<h2>
 
 Check out the Student Health and Counseling Services [blog](https://shcs.ucdavis.edu/blog/) for updates.
 

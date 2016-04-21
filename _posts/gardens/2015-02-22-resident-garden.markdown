@@ -11,12 +11,12 @@ category: garden
 ---
 
 
-###About
+<h2>About</h2>
 
 The Resident Garden is a space for all on-campus residents to learn about edible plants, how they are grown and cared for, and how they can be prepared after harvesting. Located at the Segundo Resident Area between Bixby Hall and Segundo Dining Commons, the garden also offers opportunities for student leadership and community involvement.
 
 
-###Get Involved
+<h2>Get Involved</h2>
 
 Attend a workshop at the Resident Garden, participate in garden workdays, or adopt your own plot in the garden! Visit the [website](http://dining.ucdavis.edu/sus-garden.html) and follow the Resident Garden on [Facebook](https://www.facebook.com/UCDavisResidentGarden).
 

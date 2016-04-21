@@ -10,11 +10,11 @@ imagesource: viti
 category: garden
 ---
 
-###About
+<h2>About</h2>
 
 The UC Davis Viticulture and Enology program planted a vineyard adjacent to the Robert Mondavi Institute for Wine and Food Science in 2011. The teaching vineyard features varieties from all over the world and is intended to provide hands-on learning for Viticulture and Enology students.
 
-###Get Involved
+<h2>Get Involved</h2>
 
 The RMI vineyard is for use by Viticulture and Enology students, faculty, and staff. To learn more, visit the [website](http://wineserver.ucdavis.edu/about/facilities/vineyards/Campus%20Vineyards.html).
 
