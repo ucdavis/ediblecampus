@@ -6,7 +6,7 @@ growing: Vegetable varieties common to Africa and Asia, including varieties of a
 website: http://horticulture.ucdavis.edu/main/center_ucdavis.html
 location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.8596131562144!2d-121.74941868461072!3d38.5370041757114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzEzLjIiTiAxMjHCsDQ0JzUwLjAiVw!5e0!3m2!1sen!2sus!4v1459360370916
 permalink: /gardens/horticulture
-banner-image: /media/placeholder4.jpg
+imagesource: hort
 category: garden
 ---
 

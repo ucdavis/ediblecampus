@@ -6,7 +6,7 @@ location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.54939123925
 facebook: https://www.facebook.com/UCDavisResidentGarden
 website: http://dining.ucdavis.edu/sus-garden.html
 permalink: /gardens/resident-garden
-banner-image: /media/placeholder4.jpg
+imagesource: resident
 category: garden
 ---
 

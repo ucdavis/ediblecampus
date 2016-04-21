@@ -5,7 +5,7 @@ description: "The Biological Orchard and Gardens (BOG) is a collaboration betwee
 location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.647634701637!2d-121.75791868454017!3d38.54188997962706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzMwLjgiTiAxMjHCsDQ1JzIwLjYiVw!5e0!3m2!1sen!2sus!4v1459359972828
 permalink: /gardens/bog
 facebook: http://www.facebook.com/ucdBOG
-banner-image: /media/placeholder4.jpg
+imagesource: bog
 category: garden
 ---
 
