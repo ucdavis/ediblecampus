@@ -9,7 +9,6 @@ facebook: https://www.facebook.com/PES-Salad-Bowl-Garden-140693089381118/?fref=t
 imagesource: sbg
 category: garden
 permalink: /gardens/sbg
-
 ---
 
 
