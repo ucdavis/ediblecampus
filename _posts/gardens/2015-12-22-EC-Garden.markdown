@@ -7,14 +7,15 @@ website: http://ecgardenwebsite.wix.com/ecgarden
 permalink: /gardens/ec
 imagesource: ec
 category: garden
+
 ---
 
-<h2>About</h2>
+###About
 
 The ASUCD Experimental Community Gardens (ECG) are an inclusive space for people to learn about sustainable gardening, enhance health and well‐being, engage in experiential learning, connect with the community, and practice environmental stewardship. Gardeners grow nourishing food, learn together, and develop lasting friendships. A unit within the Associated Students of the University of California, Davis (ASUCD), the ECG occupy five acres of organic farmland between the Domes and the Student Farm Market Garden. Plots are available for rent on an annual basis to students, faculty, staff and community members.
 
 
-<h2>Get Involved</h2>
+###Get Involved
 
 For information about the ECG or to rent a plot, visit the [website](http://ecgardenwebsite.wix.com/ecgarden).
 

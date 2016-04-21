@@ -6,8 +6,8 @@
 </description>
     <link>http://growfood.ucdavis.edu/</link>
     <atom:link href="http://growfood.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Apr 2016 13:07:07 -0700</pubDate>
-    <lastBuildDate>Thu, 21 Apr 2016 13:07:07 -0700</lastBuildDate>
+    <pubDate>Thu, 21 Apr 2016 13:08:38 -0700</pubDate>
+    <lastBuildDate>Thu, 21 Apr 2016 13:08:38 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -149,11 +149,11 @@ sententia?&lt;/p&gt;
     
       <item>
         <title>EC Garden</title>
-        <description>&lt;h2&gt;About&lt;/h2&gt;
+        <description>&lt;h3 id=&quot;about&quot;&gt;About&lt;/h3&gt;
 
 &lt;p&gt;The ASUCD Experimental Community Gardens (ECG) are an inclusive space for people to learn about sustainable gardening, enhance health and well‐being, engage in experiential learning, connect with the community, and practice environmental stewardship. Gardeners grow nourishing food, learn together, and develop lasting friendships. A unit within the Associated Students of the University of California, Davis (ASUCD), the ECG occupy five acres of organic farmland between the Domes and the Student Farm Market Garden. Plots are available for rent on an annual basis to students, faculty, staff and community members.&lt;/p&gt;
 
-&lt;h2&gt;Get Involved&lt;/h2&gt;
+&lt;h3 id=&quot;get-involved&quot;&gt;Get Involved&lt;/h3&gt;
 
 &lt;p&gt;For information about the ECG or to rent a plot, visit the &lt;a href=&quot;http://ecgardenwebsite.wix.com/ecgarden&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
 
@@ -241,11 +241,11 @@ sententia?&lt;/p&gt;
     
       <item>
         <title>Edible Landscaping Internship Greenhouse</title>
-        <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
+        <description>&lt;h2&gt;About&lt;/h2&gt;
 
 &lt;p&gt;Student interns of the &lt;a href=&quot;http://arboretum.ucdavis.edu/student_opportunities.aspx&quot;&gt;Edible Landscaping Internship&lt;/a&gt; propagate plants for several edible landscapes on campus and for Arboretum plant sales. Currently, these edible plants are propagated at the Environmental Horticulture greenhouses.&lt;/p&gt;
 
-&lt;h2 id=&quot;get-involved&quot;&gt;Get Involved&lt;/h2&gt;
+&lt;h2&gt;Get Involved&lt;/h2&gt;
 
 &lt;p&gt;Get involved propagating edible plants through the Arboretum and Public Garden’s &lt;a href=&quot;http://arboretum.ucdavis.edu/student_opportunities.aspx&quot;&gt;Edible Landscaping Internship&lt;/a&gt;, by attending workdays or applying to be an intern.&lt;/p&gt;
 
