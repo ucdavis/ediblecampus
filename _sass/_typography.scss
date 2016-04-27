@@ -29,6 +29,22 @@ a {
             }
         }
     }
+    &.white-hover {
+        color:#fff;
+        &:hover {
+            color:$secondary-color;
+        }
+    }
+    &.more-gardens {
+        text-align:center;
+        p {
+            color:#fff;
+            margin-top:20px;
+            &:hover {
+                color:$secondary-color;
+            }
+        }
+    }
 }
 
 // ol {
@@ -59,7 +75,7 @@ ol {
         list-style-type: none;
     }
     &.no-padding {
-        padding-left:0px;
+        padding-left: 0px;
     }
 }
 
@@ -87,10 +103,10 @@ ul.footer-list {
         padding-left: 0px;
         font-family: $sans-serif;
         font-weight: 200;
-        color: rgba(255,255,255,.75);
+        color: rgba(255, 255, 255, .75);
         margin-top: 4px;
         a {
-            color:rgba(255,255,255,.75);
+            color: rgba(255, 255, 255, .75);
         }
         .foot_bottom & {
             border-right: none;
@@ -114,17 +130,17 @@ p {
     font-family: $sans-serif;
     color: $primary-font;
     .garden-card_details & span {
-        color:$secondary-font;
-        font-size:1.4rem;
+        color: $secondary-font;
+        font-size: 1.4rem;
         text-transform: uppercase;
     }
     &.lead {
-        font-size:1.8rem;
-        color:#000;
-        margin-top:0px;
-        border-bottom:1px solid $borders;
-        padding-bottom:1%;
-        margin-bottom:3%;
+        font-size: 1.8rem;
+        color: #000;
+        margin-top: 0px;
+        border-bottom: 1px solid $borders;
+        padding-bottom: 1%;
+        margin-bottom: 3%;
     }
     .banner & {
         color: #fff;
@@ -151,8 +167,8 @@ p {
         margin-top: 0px;
     }
     .landing-lead & {
-        font-size:1.6rem;
-        color:$primary-color;
+        font-size: 1.6rem;
+        color: $primary-color;
     }
 }
 
@@ -179,11 +195,11 @@ h1,
     font-weight: 400;
     color: $primary-font;
     header & {
-        font-size:2.8rem;
-        font-weight:600;
-        color:$primary-color;
-        display:inline-block;
-        text-indent:-999999px;
+        font-size: 2.8rem;
+        font-weight: 600;
+        color: $primary-color;
+        display: inline-block;
+        text-indent: -999999px;
     }
     .main_contents & {
         color: $primary-color;
@@ -199,27 +215,26 @@ h2,
         font-weight: 200;
     }
     .landing-lead & {
-        font-size:2.4rem;
-        color:$primary-color;
-        font-weight:600;
+        font-size: 2.4rem;
+        color: $primary-color;
+        font-weight: 600;
     }
 }
 
 h3,
 .h3 {
     font-size: 2rem;
-    margin-top:20px;
+    margin-top: 20px;
     & + p {
-        margin-bottom:0px;
-        margin-top:0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
     }
     aside & {
-        
-        font-size:1.8rem;
-        font-weight:600;
-        color:$primary-font;
-        margin-top:15px;
-        margin-bottom:0px;
+        font-size: 1.8rem;
+        font-weight: 600;
+        color: $primary-font;
+        margin-top: 15px;
+        margin-bottom: 0px;
     }
 }
 

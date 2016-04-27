@@ -145,7 +145,12 @@ img {
 .bg-california-poppy {
     background-color: $california-poppy !important;
 }
-
+.center-align {
+    text-align: center;
+}
+.white {
+        color:#ffffff;
+}
 // Video
 .video_wrapper {
     width: 100%;

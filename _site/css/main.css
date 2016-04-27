@@ -21,6 +21,17 @@ a {
       font-size: 1.4rem; }
       a.archive p:hover {
         color: #78BE20; }
+  a.white-hover {
+    color: #fff; }
+    a.white-hover:hover {
+      color: #78BE20; }
+  a.more-gardens {
+    text-align: center; }
+    a.more-gardens p {
+      color: #fff;
+      margin-top: 20px; }
+      a.more-gardens p:hover {
+        color: #78BE20; }
 
 ul li,
 ol li {
@@ -774,6 +785,12 @@ img.logo {
 .bg-california-poppy {
   background-color: #ed8800 !important; }
 
+.center-align {
+  text-align: center; }
+
+.white {
+  color: #ffffff; }
+
 .video_wrapper {
   width: 100%;
   height: auto;
@@ -1077,8 +1094,8 @@ nav ul.submenu {
       margin-left: 1.5%;
       display: inline-block;
       vertical-align: top; }
-      .landing-feature-wrapper .landing-feature-box .featured-garden-text h2 a {
-        color: #fff; }
+      .landing-feature-wrapper .landing-feature-box .featured-garden-text h2 {
+        margin-top: 0px; }
       .landing-feature-wrapper .landing-feature-box .featured-garden-text p {
         color: #fff; }
 

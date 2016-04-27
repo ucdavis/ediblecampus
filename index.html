@@ -48,7 +48,7 @@ title: Growfood - Homepage
                     </div>
                     <div class="featured-garden-text">
                         <h2>
-                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                      <a class="post-link white-hover" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h2>
                     <p>{{ post.description }}</p>
                     <br>
@@ -60,5 +60,6 @@ title: Growfood - Homepage
                 </div>
             {% endfor %}
         </div>
+        <a class="more-gardens" href="/gardens"><p>Browse all Gardens</p></a>
     </div>
 </div>
