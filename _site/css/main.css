@@ -48,7 +48,7 @@ ol.no-padding {
   padding-left: 0px; }
 
 ul.event-info li b {
-  color: #ba0c2f; }
+  color: #78BE20; }
 
 ul.footer-list {
   list-style-type: none;
@@ -250,7 +250,7 @@ header {
         width: 90%; } }
 
 aside {
-  width: 30%;
+  width: 25%;
   display: inline-block;
   vertical-align: top;
   padding-left: 2%;
@@ -262,16 +262,15 @@ aside {
       padding-left: 0px; } }
 
 article {
-  width: 63%;
+  width: 73%;
   display: inline-block;
   vertical-align: top;
   margin-right: 1%;
   background-color: #fff;
   border: 1px solid #C8C7CC;
   border-radius: 2px;
-  padding: 1% 2%;
-  padding-right: 2%;
-  padding-bottom: 4%; }
+  padding: 4%;
+  padding-top: 2%; }
   @media (max-width: 640px) {
     article {
       width: 100%;
@@ -1137,16 +1136,16 @@ ul.feed-list li {
   display: inline-block;
   vertical-align: top;
   width: 13%;
-  margin-right: 10px;
+  margin-right: 3%;
   font-weight: 600; }
   .event-date .event-date-wrapper {
     width: 90px; }
     .event-date .event-date-wrapper:hover span.event-month {
-      background: #d20e35; }
+      background: #86d424; }
   .event-date span.event-month {
     display: block;
     padding: 4px 1px;
-    background: #ba0c2f;
+    background: #78BE20;
     color: #fff;
     text-align: center; }
   .event-date span.event-day {
