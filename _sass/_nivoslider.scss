@@ -21,6 +21,13 @@
     height: auto;
     overflow: hidden;
     z-index:-1;
+    // min-height:330px;
+    // @include breakpoint(rufus) {
+    //     min-height:240px;
+    // } 
+    // @include breakpoint(rufus) {
+    //     min-height:145px;
+    // }
 }
 
 .nivoSlider img {

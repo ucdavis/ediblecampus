@@ -24,6 +24,11 @@
             width:60%;
             margin:2% 20% 5% 20%;
         }
+        @include breakpoint (mobileonly){
+            width:84%;
+            margin-left:8%;
+            margin-right:8%;
+        }
     }
 }
 .landing-feature-wrapper {

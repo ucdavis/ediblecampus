@@ -1,25 +1,43 @@
-*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 header {
     height: auto;
     padding-bottom: 0.5%;
     background-color: #ffffff;
-    padding-top:10px;
+    padding-top: 10px;
     .header_contents {
         @include container;
         .logo_wrapper {
-            width: 89%;
+            width: 79%;
             display: inline-block;
+            @include breakpoint(mobileonly) {
+                width: 100%;
+                text-align: center;
+                
+            }
         }
         .search_wrapper {
-            width: 10%;
-            text-align:right;
+            width: 20%;
+            text-align: right;
             display: inline-block;
+            @include breakpoint(mobileonly) {
+                width: 100%;
+                text-align: center;
+                margin-top: 25px;
+                margin-bottom:10px;
+            }
         }
     }
 }
 
 .main {
-    padding-bottom:40px;
+    padding-bottom: 40px;
     .main_contents {
         @include container;
         // background-color:#fff;
@@ -38,8 +56,8 @@ aside {
     margin-left: 0px;
     @include breakpoint(mobileonly) {
         width: 100%;
-        margin-left:0px;
-      padding-left:0px;
+        margin-left: 0px;
+        padding-left: 0px;
     }
 }
 
@@ -48,15 +66,14 @@ article {
     display: inline-block;
     vertical-align: top;
     margin-right: 1%;
-    background-color:#fff;
-    border:1px solid $borders;
-    border-radius:2px;
-    padding:4%;
-    padding-top:2%;
+    background-color: #fff;
+    border: 1px solid $borders;
+    border-radius: 2px;
+    padding: 4%;
+    padding-top: 2%;
     @include breakpoint(mobileonly) {
         width: 100%;
-        margin-left:0px;
-      padding-left:0px;
+        margin-left: 0px;
     }
 }
 
@@ -64,11 +81,11 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding-top:40px;
-    padding-bottom:40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     height: 180px;
-    display:block;
-    background-color:#404040;
+    display: block;
+    background-color: #404040;
     .footer_contents {
         @include container;
         .foot_top {
@@ -78,9 +95,11 @@ footer {
         }
     }
 }
+
 .slider_wrapper {
-    position:relative;
+    position: relative;
 }
+
 
 /**
  * Code formatting
