@@ -1171,7 +1171,8 @@ ul.news-list-main li {
   width: 100%;
   height: auto;
   overflow: hidden;
-  z-index: -1; }
+  z-index: -1;
+  min-height: 330px; }
 
 .nivoSlider img {
   position: absolute;
