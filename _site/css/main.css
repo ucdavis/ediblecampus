@@ -32,6 +32,13 @@ a {
       margin-top: 20px; }
       a.more-gardens p:hover {
         color: #78BE20; }
+  a.learn-more {
+    color: #78BE20;
+    font-family: "proxima-nova", arial, sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600; }
+    a.learn-more:hover {
+      color: #fff; }
 
 ul li,
 ol li {

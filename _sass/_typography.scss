@@ -45,6 +45,16 @@ a {
             }
         }
     }
+    &.learn-more {
+        color:$secondary-color;
+        font-family: $sans-serif;
+        font-size:1.6rem;
+        font-weight:600;
+        
+        &:hover {
+            color:#fff;
+        }
+    }
 }
 
 // ol {

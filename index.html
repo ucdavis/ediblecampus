@@ -52,10 +52,11 @@ title:  Homepage
                     </h2>
                     <p>{{ post.description }}</p>
                     <br>
-                    <br>
                     {% if post.growing %}
                     <p><b>What's Growing: </b><span>{{ post.growing }}</span></p>
                     {% endif %}
+                    <br>
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="learn-more">Learn More</a>
                     </div>
                 </div>
             {% endfor %}
