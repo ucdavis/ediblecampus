@@ -15,7 +15,7 @@ title: Growfood - Gardens
 </div>
 <div class="main">
     <div class="main_contents">
-    <p>Forger friendly means you can do whatever</p>
+    <p class="center-align forger-green"><i><img src="/media/forger_logo_small.svg"> Plant icon means forger friendly<i></p>
     <div class="garden-wrapper">
     {% for post in site.categories.garden %}
             
@@ -28,6 +28,11 @@ title: Growfood - Gardens
                     <h2>
                       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h2>
+
+                    {% if post.forger %}
+                    <div><img src="/media/forger_logo_small.svg"></div>
+                    {% endif %}
+
                     <p>{{ post.description }}</p>
                   
                     {% if post.growing %}

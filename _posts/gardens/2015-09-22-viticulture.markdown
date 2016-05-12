@@ -1,6 +1,7 @@
 ---
 layout: garden
 title:  "Viticulture & Enology Teaching Vineyard"
+forger: yup
 description: "The UC Davis Viticulture and Enology program planted a vineyard adjacent to the Robert Mondavi Institute for Wine and Food Science in 2011."
 growing: 150 winegrape varieties, including an organic, dry-farmed block with a 1920s blend of Zinfandel, Mataro, Carignane, Petit Sirah, and Alicante Bouschet
 website: http://wineserver.ucdavis.edu/about/facilities/vineyards/Campus%20Vineyards.html
