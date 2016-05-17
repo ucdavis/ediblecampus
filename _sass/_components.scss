@@ -6,16 +6,6 @@ iframe {
     border: none;
 }
 
-// ul {
-//     li {
-//         &.bullet-divider:after {
-//             content: "\2022";
-//             font-size: 20px;
-//             color:$tertiary-font;
-//         }
-//     }
-// }
-//images 
 img {
     &.logo {
         margin-right: 16px;
@@ -101,7 +91,6 @@ img {
     color: #fff;
     cursor: pointer;
     display: inline-block;
-    // text-transform: uppercase;
     text-decoration: none;
     &:hover {
         opacity: .85;
