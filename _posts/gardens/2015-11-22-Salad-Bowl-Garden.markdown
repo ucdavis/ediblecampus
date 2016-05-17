@@ -1,7 +1,6 @@
 ---
 layout: garden
 title:  "Salad Bowl Garden"
-forger: yah
 description: "Situated just outside the Plant and Environmental Sciences building, the Salad Bowl Garden is an interactive edible landscape where you can pick your salad and eat fresh food while at school or work."
 growing: "Chard, kale, lettuce, broccoli, cauliflower, beets, onions, sage, lavender, pansies, calendula"
 website: N/A
@@ -10,6 +9,7 @@ facebook: https://www.facebook.com/PES-Salad-Bowl-Garden-140693089381118/?fref=t
 imagesource: sbg
 category: garden
 tags: feature
+forger: yah
 permalink: /gardens/sbg
 ---
 
