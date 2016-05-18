@@ -101,78 +101,14 @@
             margin-left: 2%;
             h2 {
                 margin-top:0px;
+                margin-bottom:0px;
+            }
+            p {
+                margin-top:4px;
             }
         }
     }
 }
-
-// .news_landing {
-//     background-color: $bg-color;
-//     border-bottom: 1px solid $borders;
-//     padding-bottom: 2%;
-//     margin-bottom: 2%;
-//     padding-top: 2%;
-//     margin-top: -29px;
-//     .news_landing_contents {
-//         @include container;
-//         .news_landing_current {
-//             display: inline-block;
-//             vertical-align: top;
-//             width: 75%;
-//             @include breakpoint(mobileonly) {
-//              width:66%
-//             }
-//             @include breakpoint(smallmobile){
-//              width:100%;
-//             }
-//         }
-//         .news_landing_more {
-//             width: 22%;
-//             margin-left: 2%;
-//             border-left: 1px solid $borders;
-//             padding-left: 2%;
-//             display: inline-block;
-//             vertical-align: top;
-//             @include breakpoint(mobileonly) {
-//              width:30%
-//             }
-//             @include breakpoint(smallmobile){
-//              width:100%;
-//              border-left:none;
-//             }
-//         }
-//         .news_landing_piece {
-//             display: inline-block;
-//             width: 29%;
-//             margin-right: 5%;
-//             vertical-align: top;
-//             @include breakpoint(mobileonly) {
-//                 width:100%;
-//                 img.img_article_thumb {
-//                  width:90%;
-//                 }
-//             }
-//             @include breakpoint(smallmobile){
-//              margin-bottom:20px;
-//                 img.img_article_thumb {
-//                  width:90%;
-//                  margin-bottom:0px;
-//                 }
-//             }
-//             img.img_article_thumb {
-//                 float: none;
-//                 width: 100%;
-//                 margin: 0px;
-//                 padding: 0px;
-//                 margin-bottom: 3%;
-//                 max-width: 100%;
-//             }
-//             &:last-child {
-//                 margin-right: 0px;
-//             }
-//         }
-//     }
-// }
 ul.feed-list {
     li {
         margin-top: 4%;
@@ -185,11 +121,9 @@ ul.feed-list {
         }
     }
 }
-
 ul.events-list-main {
     li {}
 }
-
 .event-date {
     display: inline-block;
     vertical-align: top;
@@ -208,8 +142,7 @@ ul.events-list-main {
         background: $secondary-color;
         color: #fff;
         text-align: center;
-        // border-top-right-radius: 2px;
-        // border-top-left-radius: 2px;
+        
     }
     span.event-day {
         display: block;
