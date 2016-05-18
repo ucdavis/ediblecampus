@@ -1,12 +1,6 @@
-.nav_wrapper {
-    background-color: #fff;
-    padding-bottom: 0px;
-    border-bottom: 1px solid $borders;
-    clear: both;
-}
 
 nav {
-    @include container;
+    margin-top:10px;
 }
 
 nav {

@@ -227,33 +227,34 @@ blockquote {
 
 header {
   height: auto;
-  padding-bottom: 1%;
   background-color: #ffffff;
   padding-top: 10px; }
   header .header_contents {
     max-width: 1400px;
     width: 80%;
     margin: 0 auto;
-    min-width: 300px; }
+    min-width: 300px;
+    margin-top: 10px; }
     @media (max-width: 850px) {
       header .header_contents {
         width: 85%; } }
     @media (max-width: 640px) {
       header .header_contents {
         width: 90%; } }
-    header .header_contents .logo_wrapper {
+    header .header_contents .left_head {
       width: 79%;
       display: inline-block; }
       @media (max-width: 640px) {
-        header .header_contents .logo_wrapper {
+        header .header_contents .left_head {
           width: 100%;
           text-align: center; } }
-    header .header_contents .search_wrapper {
+    header .header_contents .right_head {
       width: 20%;
       text-align: right;
-      display: inline-block; }
+      display: inline-block;
+      margin-bottom: 12px; }
       @media (max-width: 640px) {
-        header .header_contents .search_wrapper {
+        header .header_contents .right_head {
           width: 100%;
           text-align: center;
           margin-top: 25px;
@@ -883,23 +884,8 @@ label {
   text-transform: uppercase;
   margin-bottom: 5px; }
 
-.nav_wrapper {
-  background-color: #fff;
-  padding-bottom: 0px;
-  border-bottom: 1px solid #C8C7CC;
-  clear: both; }
-
 nav {
-  max-width: 1400px;
-  width: 80%;
-  margin: 0 auto;
-  min-width: 300px; }
-  @media (max-width: 850px) {
-    nav {
-      width: 85%; } }
-  @media (max-width: 640px) {
-    nav {
-      width: 90%; } }
+  margin-top: 10px; }
 
 nav ul.submenu {
   transition: 0.3s ease-in;

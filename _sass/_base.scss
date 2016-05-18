@@ -8,32 +8,34 @@
 
 header {
     height: auto;
-    padding-bottom: 1%;
     background-color: #ffffff;
     padding-top: 10px;
     .header_contents {
         @include container;
-        .logo_wrapper {
+        margin-top:10px;
+        .left_head {
             width: 79%;
             display: inline-block;
             @include breakpoint(mobileonly) {
                 width: 100%;
                 text-align: center;
-                
             }
         }
-        .search_wrapper {
+        .right_head {
             width: 20%;
             text-align: right;
             display: inline-block;
+            margin-bottom:12px;
             @include breakpoint(mobileonly) {
                 width: 100%;
                 text-align: center;
                 margin-top: 25px;
-                margin-bottom:10px;
+                margin-bottom: 10px;
             }
         }
     }
+    .logo_wrapper {}
+    .search_wrapper {}
 }
 
 .main {
