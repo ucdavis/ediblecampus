@@ -1041,11 +1041,17 @@ nav ul.submenu {
       margin-right: 1.5%;
       display: inline-block;
       vertical-align: top; }
+      @media (max-width: 850px) {
+        .landing-feature-wrapper .landing-feature-box .featured-garden-image {
+          width: 100%; } }
     .landing-feature-wrapper .landing-feature-box .featured-garden-text {
       width: 47%;
       margin-left: 1.5%;
       display: inline-block;
       vertical-align: top; }
+      @media (max-width: 850px) {
+        .landing-feature-wrapper .landing-feature-box .featured-garden-text {
+          width: 100%; } }
       .landing-feature-wrapper .landing-feature-box .featured-garden-text h2 {
         margin-top: 0px; }
       .landing-feature-wrapper .landing-feature-box .featured-garden-text p {
