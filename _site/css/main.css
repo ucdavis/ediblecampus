@@ -1009,12 +1009,40 @@ nav ul.submenu {
   @media (max-width: 1000px) {
     .landing-lead .landing-lead_contents {
       width: 60%;
-      margin: 2% 20% 5% 20%; } }
+      margin: 2% 20% 8% 20%; } }
   @media (max-width: 640px) {
     .landing-lead .landing-lead_contents {
       width: 84%;
       margin-left: 8%;
-      margin-right: 8%; } }
+      margin-right: 8%;
+      margin-bottom: 5%; } }
+
+.blog-feature {
+  background-color: #EFEDE6;
+  border-top: 4px solid #fff;
+  border-bottom: 4px solid #fff;
+  text-align: center; }
+  .blog-feature:hover {
+    background-color: #EBF2FA; }
+  .blog-feature span.blog-h {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    color: #78BE20;
+    padding-right: 1.5rem; }
+  .blog-feature span.blog-d {
+    font-size: 1.4rem;
+    color: #333433;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 42px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem; }
+  .blog-feature span.blog-a {
+    font-size: 1.4rem;
+    color: #5a585c;
+    padding-left: 1.5rem; }
 
 .landing-feature-wrapper {
   background-color: #68483B;

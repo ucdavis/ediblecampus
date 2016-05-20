@@ -23,6 +23,25 @@ title:  Homepage
         </p>
     </div>
 </div>
+<div class="blog-feature">
+    
+        {% for post in site.categories.blog limit:1 %}
+        <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <span class="blog-h">{{ post.title }}</span>
+            <span class="blog-d">{{ post.description }}</span>
+            <span class="blog-a">
+                Read More
+            </span>
+
+        </a>
+            
+        </h2>
+
+
+        {% endfor %}
+
+</div>
 <div class="landing-feature-wrapper">
     <div class="landing-feature">
         <h3>Featured Garden</h3>

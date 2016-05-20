@@ -1,11 +1,11 @@
 ---
 layout: article
-title:  "Needs Title"
-description: "Needs Description"
+title:  "Kansas City Food Scraps"
+description: "My grandmother was composting before ‘sustainability’ held international weight."
 author: "Jacob Siegler"
 date:   2016-05-12
 tags: "Salad Bowl Garden"
-category: "news"
+category: "blog"
 ---
 	
 My grandmother was composting before ‘sustainability’ held international weight. Her fascination with her Kansas City food scraps was - despite her archetypal grandma kookiness- nothing short of visionary. Her sloping, Bermuda Grass backyard was renovated with 3 raised beds in 2004, back when I, a 9 year-old tallboy, was infatuated with dirt. Back before I knew to distinguish dirt from soil, and gave onions not a second’s thought. My grandmother’s garden was the first one I met; it was a corn-belt soliloquy, iridescent in the springtime sunshine.
