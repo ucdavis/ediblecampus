@@ -770,7 +770,7 @@ img.logo {
   border-radius: 2px;
   font-family: "proxima-nova", arial, sans-serif;
   font-size: 1.4rem;
-  font-weight: 400;
+  font-weight: 600;
   color: #fff;
   cursor: pointer;
   display: inline-block;
@@ -1004,12 +1004,12 @@ nav ul.submenu {
 
 .landing-lead .landing-lead_contents {
   text-align: center;
-  width: 40%;
-  margin: 2% 30% 5% 30%; }
+  width: 50%;
+  margin: 4% 25% 8% 25%; }
   @media (max-width: 1000px) {
     .landing-lead .landing-lead_contents {
       width: 60%;
-      margin: 2% 20% 8% 20%; } }
+      margin: 2% 20% 6% 20%; } }
   @media (max-width: 640px) {
     .landing-lead .landing-lead_contents {
       width: 84%;
