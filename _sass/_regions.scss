@@ -1,6 +1,7 @@
 .banner {
     background-color: $primary-color;
     padding: 2% 0;
+    min-height:125px;
     &.banner_garden {
         background-image: url(/media/garden_banner.jpg);
         background-size: cover;

@@ -66,8 +66,8 @@ article {
     vertical-align: top;
     margin-right: 1%;
     background-color: #fff;
-    border: 1px solid $borders;
-    border-radius: 2px;
+    border: 1px solid $brown-borders;
+    border-radius: 0px;
     padding: 4%;
     padding-top: 2%;
     @include breakpoint(mobileonly) {
