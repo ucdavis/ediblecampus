@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://ediblecampus.ucdavis.edu/blog/2016/05/12/tbd/</loc>
-<lastmod>2016-05-12T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/ec</loc>
-<lastmod>2015-12-22T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/events/2015/11/23/news-article/</loc>
-<lastmod>2015-11-23T04:25:17-08:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/sbg</loc>
-<lastmod>2015-11-22T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/elig</loc>
-<lastmod>2015-10-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</loc>
-<lastmod>2015-09-22T09:25:17-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/viticulture</loc>
-<lastmod>2015-09-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/horticulture</loc>
-<lastmod>2015-08-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/bog</loc>
-<lastmod>2015-07-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/studenthealth</loc>
-<lastmod>2015-06-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/tri-coop</loc>
-<lastmod>2015-05-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/domes</loc>
-<lastmod>2015-04-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/glg</loc>
-<lastmod>2015-03-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/resident-garden</loc>
-<lastmod>2015-02-22T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/student-farm</loc>
-<lastmod>2015-01-22T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/404.html</loc>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/about/</loc>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/blog/archive/</loc>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/</loc>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/gardens/</loc>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/events/</loc>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/blog/</loc>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/support/</loc>
-</url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/blog/2016/05/12/tbd/</loc>
+    <lastmod>2016-05-12T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/ec</loc>
+    <lastmod>2015-12-22T00:00:00-08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/events/2015/11/23/news-article/</loc>
+    <lastmod>2015-11-23T04:25:17-08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/sbg</loc>
+    <lastmod>2015-11-22T00:00:00-08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/elig</loc>
+    <lastmod>2015-10-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</loc>
+    <lastmod>2015-09-22T09:25:17-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/viticulture</loc>
+    <lastmod>2015-09-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/horticulture</loc>
+    <lastmod>2015-08-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/bog</loc>
+    <lastmod>2015-07-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/studenthealth</loc>
+    <lastmod>2015-06-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/tri-coop</loc>
+    <lastmod>2015-05-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/domes</loc>
+    <lastmod>2015-04-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/glg</loc>
+    <lastmod>2015-03-22T00:00:00-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/resident-garden</loc>
+    <lastmod>2015-02-22T00:00:00-08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/student-farm</loc>
+    <lastmod>2015-01-22T00:00:00-08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/404.html</loc>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/about/</loc>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/blog/archive/</loc>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/</loc>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/events/</loc>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/blog/</loc>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/gardens/</loc>
+  </url>
+  <url>
+    <loc>http://ediblecampus.ucdavis.edu/support/</loc>
+  </url>
 </urlset>
