@@ -59,6 +59,13 @@ a {
 
 ul,
 ol {
+    &.two_col_list {
+        li {
+            width:49%;
+            display:inline-block;
+            vertical-align: top;
+        }
+    }
     li {
         font-size: 1.6rem;
         line-height: 1.8;

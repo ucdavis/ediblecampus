@@ -40,6 +40,11 @@ a {
     a.learn-more:hover {
       color: #fff; }
 
+ul.two_col_list li,
+ol.two_col_list li {
+  width: 49%;
+  display: inline-block;
+  vertical-align: top; }
 ul li,
 ol li {
   font-size: 1.6rem;
