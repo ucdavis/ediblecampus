@@ -6,7 +6,7 @@ location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.08649994986
 website: http://asi.ucdavis.edu/programs/sf/get-involved/internships-and-volunteer-positions
 permalink: /gardens/student-farm
 imagesource: sf
-category: Garden
+category: garden
 ---
 
 <h2>About</h2>
