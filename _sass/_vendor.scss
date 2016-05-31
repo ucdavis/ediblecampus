@@ -219,7 +219,9 @@
 }
 
 .affix {
-    position: fixed
+    position: fixed;
+    top:50px;
+    right:5%;
 }
 #mylightbox {
     display:none;
