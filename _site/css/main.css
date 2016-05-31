@@ -234,6 +234,10 @@ blockquote {
 .forger-green {
   color: #78be20; }
 
+span.growing {
+  color: #5a585c;
+  font-size: 1.2rem; }
+
 *,
 *:after,
 *:before {
@@ -726,6 +730,10 @@ img.logo {
   margin-right: 16px;
   margin-bottom: -10px; }
 
+.bg-card {
+  background-color: #fff;
+  border: 1px solid #C8C7CC; }
+
 .image-gallery {
   width: 100%;
   margin-top: 12px; }
@@ -1105,30 +1113,36 @@ nav ul.submenu {
 .map-wrapper iframe {
   border-bottom: 4px solid #4d6a79; }
 
-.garden-wrapper {
-  width: 80%;
-  margin: 0 auto; }
-  .garden-wrapper .garden-card {
-    padding: 20px;
-    background-color: #fff;
-    border: 1px solid #C8C7CC;
-    margin: 20px 0px; }
-    .garden-wrapper .garden-card .garden-card_map {
-      text-align: left;
-      vertical-align: top;
-      display: inline-block;
-      width: 23%; }
-    .garden-wrapper .garden-card .garden-card_details {
-      text-align: left;
-      vertical-align: top;
-      display: inline-block;
-      width: 73%;
-      margin-left: 2%; }
-      .garden-wrapper .garden-card .garden-card_details h2 {
-        margin-top: 0px;
-        margin-bottom: 0px; }
-      .garden-wrapper .garden-card .garden-card_details p {
-        margin-top: 4px; }
+.garden-wrapper .garden-card {
+  padding: 20px;
+  margin: 20px 0px;
+  vertical-align: top;
+  display: inline-block;
+  width: 32%; }
+  @media (max-width: 850px) {
+    .garden-wrapper .garden-card {
+      width: 49%; } }
+  @media (max-width: 640px) {
+    .garden-wrapper .garden-card {
+      width: 100%; } }
+  .garden-wrapper .garden-card p {
+    font-size: 1.4rem; }
+  .garden-wrapper .garden-card .garden-card_map {
+    text-align: left;
+    vertical-align: top;
+    display: inline-block;
+    width: 23%; }
+  .garden-wrapper .garden-card .garden-card_details {
+    text-align: left;
+    vertical-align: top;
+    display: inline-block;
+    width: 73%;
+    margin-left: 2%; }
+    .garden-wrapper .garden-card .garden-card_details h2 {
+      margin-top: 0px;
+      margin-bottom: 0px; }
+    .garden-wrapper .garden-card .garden-card_details p {
+      margin-top: 4px; }
 
 ul.feed-list li {
   margin-top: 4%;

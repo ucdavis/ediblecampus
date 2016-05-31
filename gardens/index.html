@@ -13,18 +13,19 @@ title: Growfood - Gardens
 <div class="map-wrapper">
     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zlEkkxgTKN4k.kivT7awLaK-M" width="100%" height="480"></iframe>
 </div>
+<p class="center-align forger-green"><i><img src="/media/forger_logo_small.svg">Means Forger friendly</i></p>
 <div class="main">
-    <div class="main_contents">
-    <p class="center-align forger-green"><i><img src="/media/forger_logo_small.svg"> Forger friendly</i></p>
-    <div class="garden-wrapper">
+    <div class="main_contents bg-card">
+    
+    <ul class="garden-wrapper">
     {% for post in site.categories.garden %}
             
-            <div class="garden-card">
-                <div class="garden-card_map">
-                <img src="/media/gardens/{{ post.imagesource }}/three.jpg" alt="">
-                    
-                </div>
-                <div class="garden-card_details">
+            <li class="garden-card">
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <img src="/media/gardens/{{ post.imagesource }}/two.jpg" alt="">
+                    </a>
+                
+               
                     <h2>
                       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h2>
@@ -32,7 +33,7 @@ title: Growfood - Gardens
                     <p>{{ post.description }}</p>
                   
                     {% if post.growing %}
-                    <p><b>What's Growing: </b><span>{{ post.growing }}</span></p>
+                    <p><span class="growing"><b>What's Growing: </b>{{ post.growing }}</span></p>
                     {% endif %}
 
 
@@ -40,8 +41,8 @@ title: Growfood - Gardens
                     <div><img src="/media/forger_logo_small.svg"></div>
                     {% endif %}
                     
-                </div>
-            </div>
+                
+            </li>
             
             {% endfor %}
             </div>

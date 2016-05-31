@@ -15,19 +15,20 @@ title: Growfood - Map
         <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="UC Davis Public Tree Database" src="//www.arcgis.com/apps/Embed/index.html?webmap=3a7b2947ab344a7eaeeab3dbfa12e0ef&amp;extent=-121.761,38.5322,-121.7437,38.5423&amp;zoom=true&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe>
     </div>
 </div>
-
+ <p class="center-align forger-green"><i><img src="/media/forger_logo_small.svg"> Forger friendly</i></p>
 <div class="main">
     <div class="main_contents">
-    <p class="center-align forger-green"><i><img src="/media/forger_logo_small.svg"> Forger friendly</i></p>
-    <div class="garden-wrapper">
+   
+ 
+    <ul class="garden-wrapper">
     {% for post in site.categories.garden %}
             
-            <div class="garden-card">
-                <div class="garden-card_map">
-                <img src="/media/gardens/{{ post.imagesource }}/three.jpg" alt="">
-                    
-                </div>
-                <div class="garden-card_details">
+            <li class="garden-card">
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <img src="/media/gardens/{{ post.imagesource }}/two.jpg" alt="">
+                    </a>
+                
+               
                     <h2>
                       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h2>
@@ -35,7 +36,7 @@ title: Growfood - Map
                     <p>{{ post.description }}</p>
                   
                     {% if post.growing %}
-                    <p><b>What's Growing: </b><span>{{ post.growing }}</span></p>
+                    <p><span class="growing"><b>What's Growing: </b>{{ post.growing }}</span></p>
                     {% endif %}
 
 
@@ -43,10 +44,9 @@ title: Growfood - Map
                     <div><img src="/media/forger_logo_small.svg"></div>
                     {% endif %}
                     
-                </div>
-            </div>
+                
+            </li>
             
-            {% endfor %}
-            </div>
+            {% endfor %}            </div>
     </div>
 </div>

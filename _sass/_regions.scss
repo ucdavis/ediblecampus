@@ -122,13 +122,21 @@
 }
 
 .garden-wrapper {
-    width: 80%;
-    margin: 0 auto;
     .garden-card {
         padding: 20px;
-        background-color: #fff;
-        border: 1px solid $borders;
         margin: 20px 0px;
+        vertical-align: top;
+        display:inline-block;
+        width:32%;
+        @include breakpoint(rufus){
+            width:49%;
+        }
+        @include breakpoint(mobileonly){
+            width:100%;
+        }
+        p {
+            font-size:1.4rem;
+        }
         .garden-card_map {
             text-align: left;
             vertical-align: top;
