@@ -64,6 +64,10 @@ ol {
             width:49%;
             display:inline-block;
             vertical-align: top;
+            @include breakpoint(mobileonly) {
+                width:100%;
+                display: block;
+            }
         }
     }
     li {
