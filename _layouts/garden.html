@@ -43,7 +43,11 @@ layout: default
             {% endif %}
             {% if page.facebook %}
             <h3>Social</h3>
-            <p><a href="{{ page.facebook }}"><i class="fa fa-facebook"></i></a></p>
+            <p><a href="{{ page.facebook }}"><i class="fa fa-facebook"></i></a>
+            {% if page.twitter %}  <a href="{{ page.twitter }}"><i class="fa fa-twitter"></i>
+            {% endif %}
+            </p>
+
             {% endif %}
         </aside>
     </div>
