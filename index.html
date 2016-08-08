@@ -4,7 +4,7 @@ title:  Homepage
 ---
 
 <div class="slider_wrapper animated fadeIn">
-    
+
     <div id="slider" class="nivoSlider">
         <img src="/media/slide1.jpg" title="#htmlcaption1" />
         <img src="/media/slide2.jpg" title="#htmlcaption2" />
@@ -19,13 +19,13 @@ title:  Homepage
         <img src="/media/leaf.svg" alt="leaf in ground">
         <h2>Our Misson</h2>
         <p>
-            Edible Campus is your guide to growing food at UC Davis. Through a comprehensive list of edible landscapes, a blog and event calendar, growfood connects students, staff, and community members to opportunities to grow food on campus and shares what’s happening at our campus gardens.
+          To get involved with edible landscaping and sustainable agriculture at UC Davis, read about the opportunities at <a href="/gardens">each garden</a>. Many sites seek volunteers and interns, and some offer employment opportunities.
         </p>
         <p><a href="/about" class="btn">Learn More</a></p>
     </div>
 </div>
 <div class="blog-feature">
-    
+
         {% for post in site.categories.blog limit:1 %}
         <h2>
         <a href="{{ post.url | prepend: site.baseurl }}">
@@ -36,7 +36,7 @@ title:  Homepage
             </span>
 
         </a>
-            
+
         </h2>
 
 
@@ -57,11 +57,11 @@ title:  Homepage
                       <a class="post-link white-hover" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h2>
                     <p>{{ post.description }}</p>
-                
+
                     {% if post.growing %}
                     <p><b>What's Growing: </b><span>{{ post.growing }}</span></p>
                     {% endif %}
-                   
+
                     <a href="{{ post.url | prepend: site.baseurl }}" class="learn-more">Learn More</a>
                     </div>
                 </div>
