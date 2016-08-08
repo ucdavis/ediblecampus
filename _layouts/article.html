@@ -4,13 +4,13 @@ layout: default
 
 <div class="main">
     <div class="main_contents">
-    
+
         <article>
             <h1>{{ page.title }}</h1>
             <h5 class="feed-date">Published {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h5>
             <p class="feed-summary">{{ page.description }}</p>
 
-            {% if page.image %} 
+            {% if page.image %}
             <div class="image-wrapper full-width">
                 <a href="#" data-featherlight="#mylightbox">
                     <img src="{{ page.image }}" alt="Photograph of a Stork">
@@ -25,11 +25,11 @@ layout: default
             {% endif %}
 
            	<p>{{ content }}</p>
-       
+
         </article>
         <aside>
-            <h3>Blog</h3>
-            <p class="lead">Blog descrip</p>
+          <h3>Edible Campus Blog</h3>
+          <p> Hopefully we'll be able to inform, entertain and engage you, our readers. You will hear from students, ...?</p>
         </aside>
     </div>
 </div>

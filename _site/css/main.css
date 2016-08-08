@@ -10,17 +10,17 @@ html {
 
 a {
   text-decoration: none;
-  color: #68483B; }
+  color: #C99700; }
   a:hover {
-    color: #78BE20; }
+    color: #b08400; }
   a.archive {
     text-align: right; }
     a.archive p {
-      color: #68483B;
+      color: #C99700;
       margin-top: -60px;
       font-size: 1.4rem; }
       a.archive p:hover {
-        color: #78BE20; }
+        color: #b08400; }
   a.white-hover {
     color: #fff; }
     a.white-hover:hover {
