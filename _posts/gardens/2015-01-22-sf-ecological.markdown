@@ -4,8 +4,8 @@ title:  "Student Farm - Ecological Garden"
 description: "The Student Farm is a community where students work to create, maintain, and explore sustainable food systems."
 location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.0864999498694!2d-121.75469868461086!3d38.531774176017485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzIwLjAiTiAxMjHCsDQ1JzUxLjYiVw!5e0!3m2!1sen!2sus!4v1459360437536
 website: http://asi.ucdavis.edu/programs/sf/programs/ecological-garden
-permalink: /gardens/sf-ecological
-imagesource: sf
+permalink: /gardens/sf-eco
+imagesource: sf-eco
 category: garden
 ---
 
@@ -17,5 +17,3 @@ The Student Farm is a community where students work to create, maintain, and exp
 <h2>Get Involved</h2>
 
 Visit the [website](http://asi.ucdavis.edu/programs/sf/programs/ecological-garden) for more information about the Ecological Garden and how to become a volunteer or intern.
-
-
