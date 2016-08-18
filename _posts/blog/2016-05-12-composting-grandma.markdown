@@ -6,6 +6,8 @@ author: "Jacob Siegler"
 date:   2016-05-12
 tags: "Salad Bowl Garden"
 category: "blog"
+image: /media/blog/jacobs
+image-caption: "Edible Landscaping Intern and Salad Bowl Garden manager Jacob Siegler teaches students and families about compost on Biodiversity Day at UC Davis. Photo credit: Melissa Cruz/Arboretum and Public Garden."
 ---
 
 My grandmother was composting before ‘sustainability’ held international weight. Her fascination with her Kansas City food scraps was - despite her archetypal grandma kookiness- nothing short of visionary. Her sloping, Bermuda Grass backyard was renovated with 3 raised beds in 2004, back when I, a 9 year-old tallboy, was infatuated with dirt. Back before I knew to distinguish dirt from soil, and gave onions not a second’s thought. My grandmother’s garden was the first one I met; it was a corn-belt soliloquy, iridescent in the springtime sunshine.

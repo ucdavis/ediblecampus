@@ -4,6 +4,8 @@ title:  "Pitch-and-Plant your ideas in campus gardening contest"
 description: "Bright ideas and green thumbs are the only pre-requisites for a campus gardening contest hosted by the Horticulture Innovation Lab this summer."
 date:   2016-08-07
 category: "blog"
+image: /media/blog/pitch-and-plant
+image-caption: "UC Davis student Elise Brockett, plants vegetable seedlings at the Horticulture Innovation Lab Demonstration Center, where a few extra raised beds are waiting for contest winners’ bright ideas. Photo credit: Brenda Dawson/Horticulture Innovation Lab."
 ---
 
 At the Horticulture Innovation Lab Demonstration Center on campus, a few empty raised garden beds are waiting for some new plants. The “Pitch-and-Plant” gardening contest invites students and community members to help fill those garden beds with interesting plants.

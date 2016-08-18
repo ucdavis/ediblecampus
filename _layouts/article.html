@@ -13,9 +13,9 @@ layout: default
             {% if page.image %}
             <div class="image-wrapper full-width">
                 <a href="#" data-featherlight="#mylightbox">
-                    <img src="{{ page.image }}" alt="Photograph of a Stork">
+                    <img src="{{ page.image }}.jpg" alt="{{ page.title }}">
                 </a>
-                <div id="mylightbox"><img src="{{ page.image }}" alt="">
+                <div id="mylightbox"><img src="{{ page.image }}.jpg" alt="{{ page.title }}">
                     <p class="lightbox_caption">{{ page.image-caption }}</p>
                 </div>
                 <p class="image_caption">
@@ -29,7 +29,7 @@ layout: default
         </article>
         <aside>
           <h3>Edible Campus Blog</h3>
-          <p> Hopefully we'll be able to inform, entertain and engage you, our readers. You will hear from students, ...?</p>
+          <p>Hopefully we'll be able to inform, entertain and engage you, our readers.</p>
         </aside>
     </div>
 </div>
