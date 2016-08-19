@@ -8,7 +8,6 @@ location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.08649994986
 permalink: /gardens/viticulture
 imagesource: viti
 category: garden
-forger: yup
 ---
 
 <h2>About</h2>
@@ -18,4 +17,3 @@ The UC Davis Viticulture and Enology program planted a vineyard adjacent to the 
 <h2>Get Involved</h2>
 
 The RMI vineyard is for use by Viticulture and Enology students, faculty, and staff. To learn more, visit the [website](http://wineserver.ucdavis.edu/about/facilities/vineyards/Campus%20Vineyards.html).
-

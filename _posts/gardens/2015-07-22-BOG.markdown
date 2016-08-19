@@ -7,6 +7,7 @@ permalink: /gardens/bog
 facebook: http://www.facebook.com/ucdBOG
 imagesource: bog
 category: garden
+forger: yup
 ---
 
 <h2>About</h2>
@@ -16,4 +17,3 @@ The Biological Orchard and Gardens (BOG) is a collaboration between students, st
 <h2>Get Involved</h2>
 
 Follow the BOG on Facebook: [www.facebook.com/ucdBOG](http://www.facebook.com/ucdBOG). To join the BOG team as an intern, volunteer, or supporter, leave a message on Facebook, or contact Student Project Manager Emily Dorrance at [eadorrance@ucdavis.edu](eadorrance@ucdavis.edu).
-
