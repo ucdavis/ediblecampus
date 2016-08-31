@@ -4,10 +4,9 @@ title:  "World Food Day Video Challenge: Deadline Sept. 7"
 description: "All UC students are invited to participate, producing videos on UC research connected to reducing hunger or improving nutrition."
 date:   2016-08-31 11:00
 event-date: Monday, August 1-Wednesday, September 7
-event-time: n/a
-event-location: n/a
+event-time:
+event-location:
 event-contact: <a href="mailto:worldfoodcenter@ucdavis.edu">worldfoodcenter@ucdavis.edu</a> or 530-752-7172
-event-button: http://cydoval.com/
 category: "events"
 ---
 Hosted by: World Food Center

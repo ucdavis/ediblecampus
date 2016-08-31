@@ -6,8 +6,8 @@
 </description>
     <link>http://ediblecampus.ucdavis.edu/</link>
     <atom:link href="http://ediblecampus.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Aug 2016 11:45:42 -0700</pubDate>
-    <lastBuildDate>Wed, 31 Aug 2016 11:45:42 -0700</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2016 11:59:01 -0700</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2016 11:59:01 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -23,6 +23,23 @@
         <pubDate>Wed, 31 Aug 2016 11:00:00 -0700</pubDate>
         <link>http://ediblecampus.ucdavis.edu/events/2016/08/31/world-food-day/</link>
         <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/events/2016/08/31/world-food-day/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>UC Davis Farmers Market</title>
+        <description>&lt;p&gt;Hosted by: UC Davis Dining Services&lt;/p&gt;
+
+&lt;p&gt;The campus market (an extension of the Davis Farmers Market) has a mission of increasing UC Davis students’ access to fresh fruits and vegetables. Staff and faculty are welcome, too, of course.&lt;/p&gt;
+
+&lt;p&gt;See you at the market!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Aug 2016 11:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/events/2016/08/31/UCDavis-Farmers-Market/</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/events/2016/08/31/UCDavis-Farmers-Market/</guid>
         
         
         <category>events</category>
@@ -189,28 +206,6 @@
         <pubDate>Wed, 22 Jul 2015 00:00:00 -0700</pubDate>
         <link>http://ediblecampus.ucdavis.edu/gardens/bog</link>
         <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/bog</guid>
-        
-        
-        <category>garden</category>
-        
-      </item>
-    
-      <item>
-        <title>Student Wellness Garden</title>
-        <description>&lt;h2&gt;About&lt;/h2&gt;
-
-&lt;p&gt;On the south side of the Student Health and Wellness Center is the welcoming Student Wellness Garden. Within this Garden is the the small, organically grown Harvest Garden that offers visitors an opportunity to learn about the benefits of growing and eating fresh fruit and vegetables. Cared for by Health Education and Promotion student staff and volunteers, it serves as an area for students to enjoy and engage in garden care.&lt;/p&gt;
-
-&lt;p&gt;The Healing Patch is a medicinal garden also incorporated into the Student Wellness Garden. Many of the plants in this space are medicinal and used for ethnobotanical purposes.&lt;/p&gt;
-
-&lt;h2&gt;Get Involved&lt;/h2&gt;
-
-&lt;p&gt;Check out Student Health and Counseling Services &lt;a href=&quot;https://shcs.ucdavis.edu/about/shwc.html&quot;&gt;webpage&lt;/a&gt; and the SHCS Facebook page for more information, or contact &lt;a href=&quot;sconnolly@ucdavis.edu&quot;&gt;Shantille Connolly.&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 22 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://ediblecampus.ucdavis.edu/gardens/studenthealth</link>
-        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/studenthealth</guid>
         
         
         <category>garden</category>

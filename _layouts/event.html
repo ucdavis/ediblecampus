@@ -16,9 +16,9 @@ layout: default
             <h3>Event Info</h3>
             <ul class="event-info no-bullet no-padding">
                 <li><b>Date:</b> {{ page.event-date }}</li>
-                <li><b>Time:</b> {{ page.event-time }}</li>
-                <li><b>Location:</b> {{ page.event-location }}</li>
-                <li><b>Contact:</b> {{ page.event-contact }}</li>
+                  {% if page.event-time %}<li><b>Time:</b> {{ page.event-time }}</li>{% endif %}
+                  {% if page.event-location %}<li><b>Location:</b> {{ page.event-location }}</li>{% endif %}
+                {% if page.event-contact %}<li><b>Contact:</b> {{ page.event-contact }}</li>{% endif %}
                 {% if page.event-button %}
                 <br>
                 <li><a class="btn btn-blue" href="{{ page.event-button }}">Register</a></li>
