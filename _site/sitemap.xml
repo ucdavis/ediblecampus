@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/08/31/world-food-day/</loc>
+<lastmod>2016-08-31T11:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://ediblecampus.ucdavis.edu/blog/2016/08/07/pitch-and-plant/</loc>
 <lastmod>2016-08-07T00:00:00-07:00</lastmod>
 </url>
@@ -13,20 +17,12 @@
 <lastmod>2015-12-22T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://ediblecampus.ucdavis.edu/events/2015/11/23/news-article/</loc>
-<lastmod>2015-11-23T04:25:17-08:00</lastmod>
-</url>
-<url>
 <loc>http://ediblecampus.ucdavis.edu/gardens/sbg</loc>
 <lastmod>2015-11-22T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://ediblecampus.ucdavis.edu/gardens/elig</loc>
 <lastmod>2015-10-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://ediblecampus.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</loc>
-<lastmod>2015-09-22T09:25:17-07:00</lastmod>
 </url>
 <url>
 <loc>http://ediblecampus.ucdavis.edu/gardens/viticulture</loc>

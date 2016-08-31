@@ -4,7 +4,7 @@ layout: default
 
 <div class="main">
     <div class="main_contents">
-        
+
         <article>
             <h1 class="document_heade">{{ page.title }}</h1>
             <h1 class="post-title">{{ page.publish }}</h1>
@@ -18,7 +18,7 @@ layout: default
                 <li><b>Date:</b> {{ page.event-date }}</li>
                 <li><b>Time:</b> {{ page.event-time }}</li>
                 <li><b>Location:</b> {{ page.event-location }}</li>
-                <li><b>Contact:</b> <a href="mailto:{{ page.event-email }}">{{ page.event-contact }}</a></li>
+                <li><b>Contact:</b> {{ page.event-contact }}</li>
                 {% if page.event-button %}
                 <br>
                 <li><a class="btn btn-blue" href="{{ page.event-button }}">Register</a></li>

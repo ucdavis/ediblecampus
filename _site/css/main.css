@@ -64,9 +64,6 @@ ul.no-padding,
 ol.no-padding {
   padding-left: 0px; }
 
-ul.event-info li b {
-  color: #C99700; }
-
 ul.footer-list {
   list-style-type: none;
   padding-left: 0px;
@@ -116,6 +113,12 @@ p {
     border-bottom: 1px solid #C8C7CC;
     padding-bottom: 1%;
     margin-bottom: 3%; }
+  p.event-date {
+    margin-top: 0px;
+    color: #5a585c;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-weight: 800; }
   .banner p {
     color: #fff; }
   p.image_caption {
@@ -1149,38 +1152,6 @@ ul.feed-list li {
   list-style-type: none; }
   ul.feed-list li:last-child {
     border-bottom: none; }
-
-.event-date {
-  display: inline-block;
-  vertical-align: top;
-  width: 13%;
-  margin-right: 3%;
-  font-weight: 600; }
-  .event-date .event-date-wrapper {
-    width: 90px; }
-    .event-date .event-date-wrapper:hover span.event-month {
-      background: #e3aa00; }
-  .event-date span.event-month {
-    display: block;
-    padding: 4px 1px;
-    background: #C99700;
-    color: #fff;
-    text-align: center; }
-  .event-date span.event-day {
-    display: block;
-    padding: 6px 2px;
-    border-left: 1px solid #C8C7CC;
-    border-bottom: 1px solid #C8C7CC;
-    border-right: 1px solid #C8C7CC;
-    color: #333433;
-    text-align: center; }
-
-.event-main {
-  display: inline-block;
-  vertical-align: top;
-  width: 80%;
-  margin-left: 1%;
-  margin-top: -15px; }
 
 ul.news-list-main li {
   min-height: 242px; }

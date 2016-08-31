@@ -6,9 +6,28 @@
 </description>
     <link>http://ediblecampus.ucdavis.edu/</link>
     <atom:link href="http://ediblecampus.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Aug 2016 11:29:30 -0700</pubDate>
-    <lastBuildDate>Wed, 31 Aug 2016 11:29:30 -0700</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2016 11:45:42 -0700</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2016 11:45:42 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
+    
+      <item>
+        <title>World Food Day Video Challenge: Deadline Sept. 7</title>
+        <description>&lt;p&gt;Hosted by: World Food Center&lt;/p&gt;
+
+&lt;p&gt;First prize: $1,000 and an all-expenses-paid trip for up to three team members to the World Food Prize International Symposium, the most prestigious gathering in food and agriculture. Second prize: $500.&lt;/p&gt;
+
+&lt;p&gt;Winning videos will be showcased at a World Food Center event featuring a lecture by Catherine Bertini, a World Food Prize laureate, on Oct. 10, in celebration of World Food Day.&lt;/p&gt;
+
+&lt;p&gt;Entry deadline: Wednesday, Sept. 7. Visit the &lt;a href=&quot;http://worldfoodcenter.ucdavis.edu/video-challenge/index.html&quot;&gt;World Food Center website&lt;/a&gt; to learn more about the video challenge.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Aug 2016 11:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/events/2016/08/31/world-food-day/</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/events/2016/08/31/world-food-day/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>Pitch-and-Plant your ideas in campus gardening contest</title>
@@ -77,34 +96,6 @@
       </item>
     
       <item>
-        <title>College Celebration</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 23 Nov 2015 04:25:17 -0800</pubDate>
-        <link>http://ediblecampus.ucdavis.edu/events/2015/11/23/news-article/</link>
-        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/events/2015/11/23/news-article/</guid>
-        
-        <category>Apple</category>
-        
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
         <title>Salad Bowl Garden</title>
         <description>&lt;h2&gt;About&lt;/h2&gt;
 
@@ -143,32 +134,6 @@
         
         
         <category>garden</category>
-        
-      </item>
-    
-      <item>
-        <title>UC Davis Apple Harvest</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-        <pubDate>Tue, 22 Sep 2015 09:25:17 -0700</pubDate>
-        <link>http://ediblecampus.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</guid>
-        
-        <category>Apple</category>
-        
-        
-        <category>events</category>
         
       </item>
     
@@ -224,6 +189,28 @@
         <pubDate>Wed, 22 Jul 2015 00:00:00 -0700</pubDate>
         <link>http://ediblecampus.ucdavis.edu/gardens/bog</link>
         <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/bog</guid>
+        
+        
+        <category>garden</category>
+        
+      </item>
+    
+      <item>
+        <title>Student Wellness Garden</title>
+        <description>&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;On the south side of the Student Health and Wellness Center is the welcoming Student Wellness Garden. Within this Garden is the the small, organically grown Harvest Garden that offers visitors an opportunity to learn about the benefits of growing and eating fresh fruit and vegetables. Cared for by Health Education and Promotion student staff and volunteers, it serves as an area for students to enjoy and engage in garden care.&lt;/p&gt;
+
+&lt;p&gt;The Healing Patch is a medicinal garden also incorporated into the Student Wellness Garden. Many of the plants in this space are medicinal and used for ethnobotanical purposes.&lt;/p&gt;
+
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;Check out Student Health and Counseling Services &lt;a href=&quot;https://shcs.ucdavis.edu/about/shwc.html&quot;&gt;webpage&lt;/a&gt; and the SHCS Facebook page for more information, or contact &lt;a href=&quot;sconnolly@ucdavis.edu&quot;&gt;Shantille Connolly.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 22 Jun 2015 00:00:00 -0700</pubDate>
+        <link>http://ediblecampus.ucdavis.edu/gardens/studenthealth</link>
+        <guid isPermaLink="true">http://ediblecampus.ucdavis.edu/gardens/studenthealth</guid>
         
         
         <category>garden</category>

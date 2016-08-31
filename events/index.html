@@ -4,39 +4,40 @@ layout: default
 <div class="banner banner_get">
             <div class="banner_contents">
 
-            
+
             </div>
         </div>
 <div class="main">
     <div class="main_contents">
-        
+
         <article>
-            
+
             <h1>Edible Campus Events</h1>
             <p class="lead">Stay up to date with our latest events</p>
-            
-          
+
+
             <ul class="feed-list event-list-main no-padding">
                 {% for post in site.categories.events %}
                 <li>
-                <div class="event-date">
+                <!-- <div class="event-date">
                 <div class="event-date-wrapper">
                     <a href="{{ post.url | prepend: site.baseurl }}">
                          <span class="event-month">{{ post.event-month }}</span>
                         <span class="event-day">{{ post.event-day }}</span>
                     </a>
                 </div>
-                    
-                       
-                    
-                </div>
+
+
+
+                </div> -->
                 <div class="event-main">
                     <h2 class="feed-title">
                       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h2>
+                    <p class="event-date">{{ post.event-date }}</p>
                     <p class="feed-description">{{ post.description }}</p>
                 </div>
-                    
+
                 </li>
                 {% endfor %}
             </ul>

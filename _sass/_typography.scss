@@ -50,7 +50,7 @@ a {
         font-family: $sans-serif;
         font-size:1.6rem;
         font-weight:600;
-        
+
         &:hover {
             color:#fff;
         }
@@ -88,13 +88,7 @@ ol {
     }
 }
 
-ul.event-info {
-    li {
-        b {
-            color: $secondary-color;
-        }
-    }
-}
+
 
 ul.footer-list {
     list-style-type: none;
@@ -153,6 +147,13 @@ p {
         border-bottom: 1px solid $borders;
         padding-bottom: 1%;
         margin-bottom: 3%;
+    }
+    &.event-date {
+      margin-top:0px;
+      color:$secondary-font;
+      font-size:1.4rem;
+      text-transform: uppercase;
+      font-weight:800;
     }
     .banner & {
         color: #fff;

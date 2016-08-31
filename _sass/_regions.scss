@@ -176,44 +176,44 @@ ul.feed-list {
 ul.events-list-main {
     li {}
 }
-
-.event-date {
-    display: inline-block;
-    vertical-align: top;
-    width: 13%;
-    margin-right: 3%;
-    font-weight: 600;
-    .event-date-wrapper {
-        width: 90px;
-        &:hover span.event-month {
-            background: lighten($secondary-color, 5)
-        }
-    }
-    span.event-month {
-        display: block;
-        padding: 4px 1px;
-        background: $secondary-color;
-        color: #fff;
-        text-align: center;
-    }
-    span.event-day {
-        display: block;
-        padding: 6px 2px;
-        border-left: 1px solid $borders;
-        border-bottom: 1px solid $borders;
-        border-right: 1px solid $borders;
-        color: $primary-font;
-        text-align: center;
-    }
-}
-
-.event-main {
-    display: inline-block;
-    vertical-align: top;
-    width: 80%;
-    margin-left: 1%;
-    margin-top: -15px;
-}
+//
+// .event-date {
+//     display: inline-block;
+//     vertical-align: top;
+//     width: 13%;
+//     margin-right: 3%;
+//     font-weight: 600;
+//     .event-date-wrapper {
+//         width: 90px;
+//         &:hover span.event-month {
+//             background: lighten($secondary-color, 5)
+//         }
+//     }
+//     span.event-month {
+//         display: block;
+//         padding: 4px 1px;
+//         background: $secondary-color;
+//         color: #fff;
+//         text-align: center;
+//     }
+//     span.event-day {
+//         display: block;
+//         padding: 6px 2px;
+//         border-left: 1px solid $borders;
+//         border-bottom: 1px solid $borders;
+//         border-right: 1px solid $borders;
+//         color: $primary-font;
+//         text-align: center;
+//     }
+// }
+//
+// .event-main {
+//     display: inline-block;
+//     vertical-align: top;
+//     width: 80%;
+//     margin-left: 1%;
+//     margin-top: -15px;
+// }
 
 ul.news-list-main {
     li {
