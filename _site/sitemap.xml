@@ -1,138 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/around-the-world-cooking/</loc>
-    <lastmod>2016-09-01T14:56:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/quick-and-easy-cooking/</loc>
-    <lastmod>2016-09-01T14:55:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/every-day-eats/</loc>
-    <lastmod>2016-09-01T14:52:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/food-day/</loc>
-    <lastmod>2016-09-01T14:38:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/world-food-day/</loc>
-    <lastmod>2016-09-01T14:35:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/plant-sale/</loc>
-    <lastmod>2016-09-01T14:33:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/fruit-and-veggie-up-fridays/</loc>
-    <lastmod>2016-09-01T14:29:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/fruit-and-veggie-up/</loc>
-    <lastmod>2016-09-01T14:24:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/ask-a-master-gardner/</loc>
-    <lastmod>2016-09-01T14:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/08/31/world-food-day/</loc>
-    <lastmod>2016-08-31T11:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/2016/08/31/UCDavis-Farmers-Market/</loc>
-    <lastmod>2016-08-31T11:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/blog/2016/08/07/pitch-and-plant/</loc>
-    <lastmod>2016-08-07T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/blog/2016/05/12/composting-grandma/</loc>
-    <lastmod>2016-05-12T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/ec</loc>
-    <lastmod>2015-12-22T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/sbg</loc>
-    <lastmod>2015-11-22T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/elig</loc>
-    <lastmod>2015-10-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/viticulture</loc>
-    <lastmod>2015-09-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/horticulture</loc>
-    <lastmod>2015-08-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/bog</loc>
-    <lastmod>2015-07-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/studenthealth</loc>
-    <lastmod>2015-06-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/tri-coop</loc>
-    <lastmod>2015-05-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/domes</loc>
-    <lastmod>2015-04-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/glg</loc>
-    <lastmod>2015-03-22T00:00:00-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/resident-garden</loc>
-    <lastmod>2015-02-22T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/sf-vineyard</loc>
-    <lastmod>2015-01-24T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/sf-market</loc>
-    <lastmod>2015-01-23T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/sf-eco</loc>
-    <lastmod>2015-01-22T00:00:00-08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/404.html</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/about/</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/blog/archive/</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/blog/</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/events/</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/gardens/map/</loc>
-  </url>
-  <url>
-    <loc>http://ediblecampus.ucdavis.edu/support/</loc>
-  </url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/around-the-world-cooking/</loc>
+<lastmod>2016-09-01T14:56:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/quick-and-easy-cooking/</loc>
+<lastmod>2016-09-01T14:55:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/every-day-eats/</loc>
+<lastmod>2016-09-01T14:52:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/food-day/</loc>
+<lastmod>2016-09-01T14:38:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/world-food-day/</loc>
+<lastmod>2016-09-01T14:35:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/plant-sale/</loc>
+<lastmod>2016-09-01T14:33:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/fruit-and-veggie-up-fridays/</loc>
+<lastmod>2016-09-01T14:29:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/fruit-and-veggie-up/</loc>
+<lastmod>2016-09-01T14:24:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/09/01/ask-a-master-gardner/</loc>
+<lastmod>2016-09-01T14:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/08/31/world-food-day/</loc>
+<lastmod>2016-08-31T11:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/2016/08/31/UCDavis-Farmers-Market/</loc>
+<lastmod>2016-08-31T11:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/blog/2016/08/07/pitch-and-plant/</loc>
+<lastmod>2016-08-07T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/blog/2016/05/12/composting-grandma/</loc>
+<lastmod>2016-05-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/ec</loc>
+<lastmod>2015-12-22T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/sbg</loc>
+<lastmod>2015-11-22T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/elig</loc>
+<lastmod>2015-10-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/viticulture</loc>
+<lastmod>2015-09-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/horticulture</loc>
+<lastmod>2015-08-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/bog</loc>
+<lastmod>2015-07-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/studenthealth</loc>
+<lastmod>2015-06-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/tri-coop</loc>
+<lastmod>2015-05-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/domes</loc>
+<lastmod>2015-04-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/glg</loc>
+<lastmod>2015-03-22T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/resident-garden</loc>
+<lastmod>2015-02-22T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/sf-vineyard</loc>
+<lastmod>2015-01-24T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/sf-market</loc>
+<lastmod>2015-01-23T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/sf-eco</loc>
+<lastmod>2015-01-22T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/404.html</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/about/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/blog/archive/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/events/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/blog/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/gardens/map/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/support/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/page2/</loc>
+</url>
+<url>
+<loc>http://ediblecampus.ucdavis.edu/page3/</loc>
+</url>
 </urlset>
