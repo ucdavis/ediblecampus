@@ -2,8 +2,7 @@
 layout: garden
 title:  "Edible Landscaping Internship Greenhouse"
 description: "Student interns of the Edible Landscaping Internship propagate plants for several edible landscapes on campus and for Arboretum plant sales."
-growing: Tomatoes, spinach, lettuce, chard, eggplant, cilantro, amaranth, beets, basil, peppers, chives, and more!
-website: http://arboretum.ucdavis.edu/student_opportunities.aspx
+website: http://publicgarden.ucdavis.edu/learning-by-leading
 location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5746.899010188683!2d-121.75046530733566!3d38.53665825009733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMyJzEwLjkiTiAxMjHCsDQ0JzQ5LjMiVw!5e0!3m2!1sen!2sus!4v1460050298116
 permalink: /gardens/elig
 imagesource: elig
@@ -13,9 +12,8 @@ category: garden
 
 <h2>About</h2>
 
-Student interns of the [Edible Landscaping Internship](http://arboretum.ucdavis.edu/student_opportunities.aspx) propagate plants for several edible landscapes on campus and for Arboretum plant sales. Currently, these edible plants are propagated at the Environmental Horticulture greenhouses.
+Student interns of the [Edible Landscaping Internship](http://arboretum.ucdavis.edu/student_opportunities.aspx) propagate plants for several edible landscapes on campus and for Arboretum and Public Garden plant sales. Currently, these edible plants are propagated at the Environmental Horticulture greenhouses.
 
 <h2>Get Involved</h2>
 
 Get involved propagating edible plants through the Arboretum and Public Garden’s [Edible Landscaping Internship](http://arboretum.ucdavis.edu/student_opportunities.aspx), by attending workdays or applying to be an intern.
-
