@@ -1,0 +1,19 @@
+---
+layout: event
+title:  "Food Day"
+description: "Food Day inspires Americans to change their diets and our food policies."
+date:   2016-09-01 14:38
+event-date: Monday, October 24, 2016
+event-time: 
+event-location: 
+event-contact: 
+category: "events"
+---
+Hosted by: Center for Science in the Public Interest
+
+Every October 24, thousands of events all around the country bring Americans together to celebrate and enjoy real food and to push for improved food policies.
+
+October 24 is a day to resolve to make changes in our own diets and to take action to solve food-related problems in our communities at the local, state, and national level.
+
+This annual event involves some of the country’s most prominent food activists, united by a vision of food that is healthy, affordable, and produced with care for the environment, farm animals, and the people who grow, harvest, and serve it. Read about how to get involved [here](http://www.foodday.org/get_involved).
+

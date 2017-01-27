@@ -29,23 +29,47 @@ a {
             }
         }
     }
+    &.white-hover {
+        color:#fff;
+        &:hover {
+            color:$secondary-color;
+        }
+    }
+    &.more-gardens {
+        text-align:center;
+        p {
+            color:#fff;
+            margin-top:20px;
+            &:hover {
+                color:$secondary-color;
+            }
+        }
+    }
+    &.learn-more {
+        color:$secondary-color;
+        font-family: $sans-serif;
+        font-size:1.6rem;
+        font-weight:600;
+
+        &:hover {
+            color:#fff;
+        }
+    }
 }
 
-// ol {
-//  padding-left:0px;
-//  li {
-//      font-size:1.5rem;
-//      letter-spacing:.025rem;
-//      font-family:$serif;
-//      color:$primary-font;
-//      a {
-//          // font-size1.5rem;
-//      }
-//  }
-// }
 ul,
 ol {
-    padding-left: 0px;
+    &.two_col_list {
+        li {
+            width:49%;
+            display:inline-block;
+            vertical-align: top;
+            @include breakpoint(mobileonly) {
+                width:100%;
+                display: block;
+            }
+        }
+    }
     li {
         font-size: 1.6rem;
         line-height: 1.8;
@@ -59,15 +83,12 @@ ol {
     &.no-bullet li {
         list-style-type: none;
     }
-}
-
-ul.event-info {
-    li {
-        b {
-            color: $unitrans-red;
-        }
+    &.no-padding {
+        padding-left: 0px;
     }
 }
+
+
 
 ul.footer-list {
     list-style-type: none;
@@ -85,8 +106,11 @@ ul.footer-list {
         padding-left: 0px;
         font-family: $sans-serif;
         font-weight: 200;
-        color: $tertiary-font;
+        color: rgba(255, 255, 255, .75);
         margin-top: 4px;
+        a {
+            color: rgba(255, 255, 255, .75);
+        }
         .foot_bottom & {
             border-right: none;
             padding-right: 5px;
@@ -108,10 +132,28 @@ p {
     font-size: 1.6rem;
     font-family: $sans-serif;
     color: $primary-font;
-    &.page_description {
+    aside & {
+        font-size:1.4rem;
+    }
+    .garden-card_details & span {
+        color: $secondary-font;
+        font-size: 1.4rem;
+        text-transform: uppercase;
+    }
+    &.lead {
+        font-size: 1.8rem;
+        color: #000;
+        margin-top: 0px;
         border-bottom: 1px solid $borders;
-        margin-bottom: 4%;
-        padding-bottom: 2%;
+        padding-bottom: 1%;
+        margin-bottom: 3%;
+    }
+    &.event-date {
+      margin-top:0px;
+      color:$secondary-font;
+      font-size:1.4rem;
+      text-transform: uppercase;
+      font-weight:800;
     }
     .banner & {
         color: #fff;
@@ -137,6 +179,10 @@ p {
         padding-bottom: 2%;
         margin-top: 0px;
     }
+    .landing-lead & {
+        font-size: 1.6rem;
+        color: $primary-color;
+    }
 }
 
 h1,
@@ -161,47 +207,55 @@ h1,
     margin-bottom: 5px;
     font-weight: 400;
     color: $primary-font;
-    .news_landing & {
+    header & {
         font-size: 2.8rem;
-        color: $secondary-font;
-        font-family: $sans-serif;
-        font-weight: 300;
-        margin-bottom: 20px;
+        font-weight: 600;
+        color: $primary-color;
+        display: inline-block;
+        text-indent: -999999px;
+    }
+    .main_contents & {
+        color: $primary-color;
     }
 }
 
 h2,
 .h2 {
     font-size: 2.2rem;
-    font-weight: 400;
+    font-weight: 600;
     .banner & {
         color: #fff;
         font-weight: 200;
     }
-    &.form_title {
-        font-size: 2rem;
-        margin-top: 0px;
-        margin-bottom: 20px;
-        color: $mint-green;
+    .landing-lead & {
+        font-size: 2.4rem;
+        color: $primary-color;
+        font-weight: 600;
     }
-    &.feed-title {
-        margin-bottom: 0px;
-        font-size: 3.2rem;
-        .news_landing & {
-            font-size: 2.4rem;
-        }
-        a {
-            color: $primary-font;
-            &:hover {
-                color: $primary-color;
-            }
-        }
+    &.section_header {
+        border-bottom: 1px solid $borders;
+        color:$primary-color;
+        padding-bottom:5px;
+        margin-bottom:15px;
     }
 }
 
 h3,
 .h3 {
     font-size: 2rem;
+    margin-top: 20px;
+    & + p {
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    aside & {
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: $primary-font;
+        text-transform: uppercase;
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
 }
 
 h4,
@@ -231,4 +285,12 @@ blockquote {
     font-family: $sans-serif;
     margin-right: 0px;
     margin-left: 60px;
+}
+
+.forger-green {
+    color: $sunny-grass;
+}
+span.growing {
+    color:$secondary-font;
+    font-size:1.2rem;
 }

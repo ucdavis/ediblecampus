@@ -1,0 +1,20 @@
+---
+layout: garden
+title:  "Good Life Garden"
+description: "The mission of the UC Davis Good Life Garden at the Robert Mondavi Institute for Wine and Food Science is to expose and educate a wide audience to the relationship between good food and good health."
+location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3121.03871690371!2d-121.75276498466035!3d38.53287567962842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDMxJzU3LjIiTiAxMjHCsDQ1JzA0LjciVw!5e0!3m2!1sen!2sus!4v1459360334278
+website: http://www.goodlifegarden.ucdavis.edu/garden_main
+permalink: /gardens/glg
+imagesource: glg
+category: garden
+---
+
+
+<h2>About</h2>
+
+The mission of the Good Life Garden is to expose and educate a wide audience to the relationship between good food and good health. The Good Life Garden’s ever-changing edible landscape features organic and sustainably grown vegetables, herbs, and flowers accompanied by compelling food and health educational signage. A portion of the Good Life Garden is cultivated by Edible Landscaping interns into an aesthetically-pleasing, biointensive edible garden that builds community and increases student food access. The Edible Landscaping interns envision their garden as part of UC Davis' Sustainable 2nd Century vision, employing a design philosophy that coalesces environmental, social, and economic benefits for visitors and participants.
+
+
+<h2>Get Involved</h2>
+
+Visit the [website](http://www.goodlifegarden.ucdavis.edu/garden_main) for more information about the garden's history and mission. Contact Edible Landscaping Internship Coordinators to find out about volunteer workdays and harvest days throughout the year. Contact information can be found at [Learning by Leading](http://publicgarden.ucdavis.edu/learning-by-leading)

@@ -1,3 +1,8 @@
+//map
+.i4ewOd-pzNkMb-haAclf {
+    background-color:$primary-color !important;
+}
+
 // modal
 
 [role="button"] {
@@ -214,7 +219,9 @@
 }
 
 .affix {
-    position: fixed
+    position: fixed;
+    top:50px;
+    right:5%;
 }
 #mylightbox {
     display:none;

@@ -1,12 +1,9 @@
-.nav_wrapper {
-    background-color: $bg-color;
-    padding-bottom: 0px;
-    border-bottom: 1px solid $borders;
-    clear: both;
+
+nav {
+    margin-top:10px;
 }
 
 nav {
-    @include container;
     ul.submenu {
         @include transition;
         background-color:$bg-color;
@@ -25,16 +22,16 @@ nav {
     // background-color:orange;
     > ul {
         margin: 0px;
-        margin-left: -12px;
+        margin-left: -20px;
+        padding-left:0px;
     }
 }
 
 #nav li {
     position: relative;
     a {
-        font-size: 1.4rem;
-        text-transform: uppercase;
-        font-weight: 500;
+        font-size: 1.6rem;
+        font-weight: 600;
         display: block;
         color: $secondary-font;
         &:hover {
@@ -74,7 +71,7 @@ nav {
                 font-size:1.6rem;
                 padding: 4px 20px;
                 &.active {
-                    color:$gold;
+                    color:$secondary-color;
                     background-color:$nav-active;
                 }
 
@@ -131,7 +128,7 @@ nav {
         }
     }
     #nav > ul > li {
-        margin-right: 2%;
+        margin-right: 0px;
     }
 }
 
@@ -140,13 +137,13 @@ nav {
 
 {
     #nav {
-        width: 100%;
-        position: static;
-        margin: 0;
-        text-align: center;
+        // width: 100%;
+        // position: static;
+        // // margin: 0;
+        // // text-align: center;
     }
     #nav > ul > li {
-        margin-right: 5%;
+        margin-right: 0px;
     }
     .search_form {
         top: 168px;
@@ -155,80 +152,79 @@ nav {
 
 @media only screen and ( max-width: 640px)
 /* 640 */
-
 {
-    nav ul.submenu {
-        background-color:rgba(255,255,255,.8);
-        padding:1%;
-        list-style-type: none;
-        padding-bottom:0px !important;
-        padding-top:0px !important;
-        li {
-            text-align: left;
-            padding-left: 15px;
-        }
-    }
-    nav a.active {
-        border-bottom: none !important;
-    }
-    .nav_open,
-    .nav_close {
-        width: 40px;
-        height: 33px;
-        line-height: 40px;
-        font-size: 20px;
-        background-color: $blue;
-        color: #fff;
-        margin-left: 5%;
-        margin-top: 3px;
-        margin-bottom: 6px;
-        i {
-            font-size: 24px;
-            padding-left: 10px;
-        }
-        i.fa-times {
-            padding-left: 11px;
-        }
-    }
-    #nav > a {
-        text-align: left;
-        position: relative;
-    }
-    #nav > a:after {
-        top: 60%;
-    }
-    #nav:not(:target) > a:first-of-type,
-    #nav:target > a:last-of-type {
-        display: block;
-    }
-    /* first level */
-    #nav > ul {
-        height: auto;
-        display: none;
-    }
-    #nav:target > ul {
-        display: block;
-    }
-    #nav > ul > li {
-        width: 100%;
-        float: none;
-        background-color: #fff;
-    }
-    #nav > ul > li > a {
-        height: auto;
-        text-align: left;
-        padding: 0 0.833em;
-        font-size: 1.6rem;
-        padding-top: 1%;
-        padding-bottom: 1%;
-        /* 20 (24) */
-    }
-    #nav > ul > li:not(:last-child) > a {}
-    /* second level */
-    #nav li ul {
-        position: static;
-        padding: 1.25em;
-        /* 20 */
-        padding-top: 0;
+    #nav {
+        text-align:center;
     }
 }
+// {
+//     #nav > ul {
+//         margin-left: 0px;
+//         & > li {
+//             text-align:center;
+//         }
+//     }
+//     nav a.active {
+//         border-bottom: none !important;
+//     }
+//     .nav_open,
+//     .nav_close {
+//         width: 40px;
+//         height: 33px;
+//         line-height: 40px;
+//         font-size: 20px;
+//         background-color: $primary-color;
+//         color: #fff;
+//         left: 46%;
+//         // margin-top: 3px;
+//         margin-bottom: 6px;
+//         i {
+//             font-size: 24px;
+//             padding-left: 10px;
+//         }
+//         i.fa-times {
+//             padding-left: 11px;
+//         }
+//     }
+//     #nav > a {
+//         text-align: left;
+//         position: relative;
+//     }
+//     #nav > a:after {
+//         top: 60%;
+//     }
+//     #nav:not(:target) > a:first-of-type,
+//     #nav:target > a:last-of-type {
+//         display: block;
+//     }
+//     /* first level */
+//     #nav > ul {
+//         height: auto;
+//         display: none;
+//     }
+//     #nav:target > ul {
+//         display: block;
+//     }
+//     #nav > ul > li {
+//         width: 100%;
+//         float: none;
+//         background-color: #fff;
+//     }
+//     #nav > ul > li > a {
+//         height: auto;
+//         text-align: left;
+//         padding: 0 0.833em;
+//         font-size: 1.6rem;
+//         padding-top: 1%;
+//         padding-bottom: 1%;
+//         /* 20 (24) */
+//     }
+//     #nav > ul > li:not(:last-child) > a {}
+//     /* second level */
+//     #nav li ul {
+//         position: static;
+//         padding: 1.25em;
+//         /* 20 */
+//         padding-top: 0;
+//     }
+// }
