@@ -12,7 +12,7 @@ category: garden
 
 <h2>About</h2>
 
-The community is home to a number of edible plants and landscapes, from fig trees to medicinal plants to kitchen gardens” to instead say: "The community is home to 26 students, as well as a number of edible plants and landscapes, from fig trees to medicinal plants to kitchen gardens.
+The community is home to 26 students, as well as a number of edible plants and landscapes, from fig trees to medicinal plants to kitchen gardens.
 
 
 <h2>Get Involved</h2>
