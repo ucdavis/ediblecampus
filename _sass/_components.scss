@@ -199,3 +199,20 @@ img {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
+
+/*for css */
+
+.col_paragraph {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+   display: block;
+}
+
+#drake_img {
+  float: left;
+  shape-outside: url(drake1.png);
+   -webkit-shape-outside: url(drake1.png);
+  shape-image-threshold: 0.0;
+  shape-margin: 10px;
+}
