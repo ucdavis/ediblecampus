@@ -11,10 +11,11 @@ category: garden
 
 
 <h2>About</h2>
-
 The community is home to 26 students, as well as a number of edible plants and landscapes, from fig trees to medicinal plants to kitchen gardens.
+
 
 
 <h2>Get Involved</h2>
 
 For more information about the Domes, visit their [Davis Wiki page](https://daviswiki.org/The_Domes). Visitors interested in the Domes are welcome to come to open dinners at 7pm Mondays through Thursdays. All are encouraged to come help out every other Sunday afternoon at the Domes garden workdays. Get in contact with us at [domies@ucdavis.edu](mailto:domies@ucdavis.edu).
+

@@ -4,7 +4,7 @@ email: ngdean@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
   Edible gardens at UC Davis.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ediblecampus.ucdavis.edu" # the base hostname & protocol for your site
+url: "https://ediblecampus.ucdavis.edu" # the base hostname & protocol for your site
 
 permalink: pretty
 
